@@ -1,0 +1,1236 @@
+Line_Item_Quantity,Pack_Price,Unit_Price,Brand,Dosage_Form,Country,Dosage,Item_Description,Weight_Kilograms,PO_SO,Total_Cost
+6200,31.0,1.55,Stat-Pak,Test kit,Uganda,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",2328,SCMS-264730,205882.27
+497,5.75,0.1,Generic,Tablet,Vietnam,300mg,"Zidovudine 300mg, tablets, 60 Tabs",117,SCMS-188710,3519.56
+25,6.76,0.11,Generic,Tablet,Uganda,300mg,"Zidovudine 300mg, tablets, 60 Tabs",1,SO-43200,5390.03
+7000,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2379,SCMS-42620,246125.25
+177954,11.15,0.37,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",88761,SO-47041,2041514.75
+4200,11.72,0.39,Generic,Tablet,Nigeria,600mg,"Efavirenz 600mg, tablets, 30 Tabs",621,SO-10750,53402.270000000004
+3293,77.7,0.78,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",747,SCMS-94620,271222.54
+2580,41.1,0.34,Aluvia,Tablet,Tanzania,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",559,SO-2000,109770.06
+58086,9.5,0.16,Generic,Tablet - FDC,Tanzania,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",8343,SO-1697,561700.9400000001
+3711,27.0,1.35,Stat-Pak,Test kit,Ethiopia,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",1341,SCMS-32410,106506.02
+17587,33.4,0.28,Generic,Tablet,Rwanda,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",5480,SCMS-84920,607795.6
+16870,2.42,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",7973,SO-43435,91972.64
+10125,7.27,0.12,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1887,SO-43490,86448.2
+164950,3.6,0.06,Generic,Chewable/dispersible tablet - FDC,Zimbabwe,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",9210,SCMS-239230,601940.45
+850,80.0,0.8,Determine,Test kit,Rwanda,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",195,SO-827,72722.47
+1251,30.82,0.1,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",1254,SCMS-90690,93063.19
+2929,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1214,SCMS-189240,253485.68
+38040,2.51,0.04,Generic,Tablet,Ghana,200mg,"Nevirapine 200mg, tablets, 60 Tabs",2269,SO-39960,95864.18999999999
+7303,1.99,0.03,Generic,Tablet - FDC,Côte d'Ivoire,30/60mg,"Lamivudine/Zidovudine 30/60mg, tablets, 60 Tabs",277,SO-47870,16834.54
+53149,19.9,0.66,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",5803,SCMS-82770,1087424.06
+8517,29.68,0.25,Generic,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",2078,SO-42320,268900.72
+10624,6.2,0.03,Generic,Oral suspension,Zambia,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",3785,SO-942,79090.19
+118,4.6,0.05,Generic,Capsule,Guyana,100mg,"Zidovudine 100mg, capsules, 100 Caps",16,SCMS-189030,1236.6299999999999
+822,1.9,0.03,Generic,Chewable/dispersible tablet - FDC,Haiti,30/6mg,"Lamivudine/Stavudine 30/6mg, dispersible tablets, 60 Tabs",107,SO-44440,3343.4700000000003
+30564,8.76,0.15,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2773,SO-33600,274620.49000000005
+65502,11.75,0.39,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",5896,SO-36910,777455.04
+42032,4.62,0.15,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4559,SCMS-240570,219660.27
+6634,3.95,0.07,Generic,Tablet - FDC,Zimbabwe,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",6368,SO-50960,26457.03
+9784,6.52,0.11,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",884,SO-45899,64555.450000000004
+39600,10.5,0.35,Generic,Tablet - FDC,Haiti,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",5986,SCMS-210510,418863.86000000004
+8258,7.12,0.12,Generic,Tablet - FDC,Ethiopia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",5147,SO-22000,88248.66
+6000,77.7,0.78,Determine,Test kit,Rwanda,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",1362,SCMS-119641,529428.11
+192,15.5,0.26,Generic,Chewable/dispersible tablet,Haiti,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",8085,SO-36741,81043.72
+40000,13.0,0.43,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",4233,SCMS-145531,527607.6699999999
+4410,1.46,0.02,Generic,Capsule,Haiti,30mg,"Stavudine 30mg, capsules, 60 Caps",286,SO-34250,10294.7
+189,3.66,0.12,Generic,Tablet,Rwanda,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",15,SO-49990,1618.0500000000002
+1480,8.26,0.09,Generic,Capsule,Rwanda,200mg,"Efavirenz 200mg, capsule, 90 Caps",187,SO-42731,14351.159999999998
+1184,17.0,0.57,Viread,Tablet,Ethiopia,300mg,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",49,SO-1514,20799.95
+3322,2.73,0.05,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",377,SO-36469,15235.789999999999
+29146,4.65,0.16,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",2870,SCMS-240580,155099.08000000002
+99714,4.12,0.14,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",6005,SO-41411,416844.86
+875,2.15,0.04,Generic,Capsule,Côte d'Ivoire,15mg,"Stavudine 15mg, capsules, 60 Caps",58,SO-556,2698.785
+4250,13.15,0.22,Generic,Tablet,Libya,300mg,"Abacavir 300mg, tablets, 60 Tabs",437,SO-41890,59028.03
+318,2.9,0.05,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",105,SO-32260,10265.6
+1505,80.0,0.8,Determine,Test kit,"Congo, DRC",300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",746,SCMS-149140,133605.81
+25100,11.0,0.18,Generic,Tablet - FDC,Vietnam,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2575,SCMS-169,294963.475
+44135,12.42,0.41,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3801,SO-1028,562749.3
+312,19.71,0.16,Generic,Tablet,Zambia,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",80,SO-48410,6243.71
+500,80.0,0.8,Determine,Test kit,Haiti,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",169,SCMS-63,41306.375
+2,238.65,238.65,Pepti-LAV,Test kit - Ancillary,Côte d'Ivoire,300mg,"HIV, Pepti-LAV 1|2 (HIV-1|2 Ab differenciation, Immuno-Blot)",6,SO-410,1834.06
+11852,16.73,0.56,Generic,Tablet - FDC,Uganda,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",1342,SO-41640,204902.15
+8276,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2050,SCMS-115320,761005.9299999999
+60,13.0,0.43,Generic,Delayed-release capsules,Uganda,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",4,SCMS-68330,1826.7199999999998
+202,32.0,1.6,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",60,SCMS-196570,7096.92
+40000,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4692,SO-36006,459503.70999999996
+600,54.0,0.9,Prezista,Tablet,Haiti,600mg,"Darunavir 600mg [Prezista], tablets, 60 Tabs",120,SCMS-263100,33574.020000000004
+8000,3.4,0.06,Generic,Tablet,Côte d'Ivoire,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1013,SO-1408,30889.52
+5019,41.1,0.34,Aluvia,Tablet,Zambia,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1092,SO-624,211372.46
+1784,21.0,0.18,Generic,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",475,SO-44212,40843.07
+2562,6.07,0.2,Generic,Tablet - FDC,Burundi,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",240,SO-45150,17204.96
+219,1.75,0.03,Generic,Capsule,Ethiopia,20mg,"Stavudine 20mg, capsules, 60 Caps",16,SO-1527,856.36
+50000,7.72,0.13,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",6201,SO-49938,398478.81
+20000,8.76,0.15,Generic,Tablet - FDC,Ethiopia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1804,SO-35460,181899.72
+2500,20.0,0.67,Generic,Tablet,Côte d'Ivoire,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",343,SCMS-228920,54029.89
+8500,2.12,0.01,Generic,Oral suspension,South Africa,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",3061,SCMS-93510,21580.67
+6105,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1051,SCMS-119190,555449.9
+2881,5.87,0.2,Generic,Tablet - FDC,Guyana,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",274,SO-46810,21196.910000000003
+42074,5.35,0.18,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4105,SCMS-129870,250793.99999999997
+2464,6.85,0.11,Norvir,Tablet,Mozambique,100mg,"Ritonavir 100mg [Norvir], film coated tablets, 60 Tabs",361,SCMS-98450,20576.09
+5527,2.1,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",5317,SO-33220,22635.120000000003
+2080,3.99,0.07,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",87,SCMS-78,19046.925000000003
+52483,2.26,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3832,SO-45071,123115.04000000001
+1,8.0,0.08,Determine,Test kit - Ancillary,Sudan,300mg,"Capillary Tubes, for Determine, EDTA, 50uL,100 Pcs",2,SCMS-121853,988.71
+40250,3.33,0.11,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4223,SO-43780,138242.62999999998
+6100,50.4,1.68,Atripla,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg [Atripla], tablets, 30 Tabs",928,SCMS-83692,310196.16000000003
+105,8.5,0.28,Generic,Delayed-release capsules,Zimbabwe,125mg,"Didanosine 125mg, delayed-release capsules, 30 Caps",10,SO-39270,4298.41
+2906,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1204,SCMS-189240,252354.91999999998
+98791,13.69,0.46,Generic,Tablet - FDC,Nigeria,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",12135,SO-43043,1384125.42
+2736,5.94,0.1,Generic,Tablet,Tanzania,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",328,SCMS-202300,20212.48
+4050,24.5,24.5,Colloidal Gold,Test kit,Rwanda,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",2700,SCMS-263330,134920.04
+5125,15.04,0.25,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",523,SO-38940,81156.37
+59680,10.52,0.35,Generic,Tablet - FDC,Zimbabwe,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",7831,SO-44270,633139.88
+29880,7.78,0.13,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2699,SO-42730,248944.32
+139000,6.73,0.11,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",12307,SO-47054,944623.62
+375,76.0,1.9,Genie,Test kit,Nigeria,300mg,"#108853** HIV, Genie II HIV-1/HIV-2 Kit, 40 Tests",411,SO-1504,31692.6
+194265,6.73,0.11,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",19976,SO-48320,1376251.46
+4800,3.33,0.11,Generic,Tablet,Zimbabwe,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3082,SO-43580,25409.57
+2296,15.0,0.25,Generic,Chewable/dispersible tablet,Côte d'Ivoire,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",17126,SO-37700,52455.71
+5000,4.64,0.15,Generic,Tablet - FDC,Nigeria,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1447,SO-48901,52036.42
+7273,8.26,0.14,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",650,SO-40830,64203.810000000005
+12304,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",5197,SO-19060,345508.05
+4124,1.55,0.03,Generic,Capsule,Nigeria,30mg,"Stavudine 30mg, capsules, 60 Caps",273,SO-19070,13768.47
+43,2.33,0.04,Generic,Tablet,"Congo, DRC",150mg,"Lamivudine 150mg, tablets, 60 Tabs",2,SO-41384,191.75
+3574,8.76,0.15,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",14,SO-30100,32744.960000000003
+1001,9.35,0.16,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",82,SO-2727,10525.8
+2000,23.5,0.78,Bioline,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Bioline 3.0 Kit, (no accessories), 30 Tests",750,SCMS-12400,55036.899999999994
+61150,3.19,0.11,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3858,SCMS-244520,215822.88
+3470,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",862,SCMS-69230,291064.03
+16300,11.15,0.19,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2011,SCMS-57140,193749.53
+125000,7.4,0.12,Generic,Tablet - FDC,Zimbabwe,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",12779,SO-718,968252.09
+3690,2.75,0.09,Generic,Capsule,Zambia,50mg,"Efavirenz 50mg, capsule, 30 Caps",226,SO-1029,11534.02
+24992,8.1,0.13,Generic,Tablet - FDC,Haiti,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",3458,SCMS-261120,222482.56000000003
+50,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",5,SO-20961,1601.7199999999998
+350,21.5,0.09,Generic,Oral solution,Zambia,20mg/ml,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",124,SO-621,8411.61
+1609,17.0,0.57,Viread,Tablet,Rwanda,300mg,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",157,SCMS-13900,35319.0
+4464,1.92,0.01,Generic,Oral suspension,Côte d'Ivoire,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",1655,SO-33490,9799.159999999998
+3150,3.04,0.05,Generic,Tablet,Rwanda,150mg,"Lamivudine 150mg, tablets, 60 Tabs",165,SO-1515,12150.6
+1000,17.0,0.57,Viread,Tablet,Vietnam,300mg,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",76,SCMS-14190,19309.77
+894,3.35,0.06,Generic,Tablet,Nigeria,150mg,"Lamivudine 150mg, tablets, 60 Tabs",479,SCMS-156,7946.575000000001
+1440,7.25,0.12,Generic,Tablet - FDC,Vietnam,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",128,SCMS-27370,12608.07
+25000,7.5,0.12,Generic,Tablet - FDC,Vietnam,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",2336,SCMS-313,208950.56
+5000,2.73,0.05,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",861,SO-36080,21063.33
+94,32.0,1.6,Uni-Gold,Test kit,Malawi,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",32,SCMS-179340,4148.03
+1033,7.33,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",52,SCMS-83820,11883.82
+600906,9.6,0.32,Generic,Tablet - FDC,Zambia,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",67880,SO-49621,5853081.829999999
+749,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",262,SCMS-147620,28670.62
+356876,2.43,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",16391,SCMS-103880,888897.8600000001
+18025,2.92,0.05,Generic,Tablet - FDC,Mozambique,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",1139,SCMS-185200,57381.130000000005
+5000,41.1,0.34,Aluvia,Tablet,Nigeria,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1246,SCMS-48440,216393.55
+30,72.0,0.72,Determine,Test kit,Haiti,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",7,SO-1565,2938.3
+40800,4.7,0.16,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4187,SO-45530,208818.87
+924,1.9,0.06,Generic,Capsule,Rwanda,50mg,"Efavirenz 50mg, capsule, 30 Caps",45,SCMS-227730,3168.92
+37500,3.21,0.11,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3961,SO-48971,124061.19
+1760,7.0,0.12,Generic,Tablet - FDC,Uganda,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",133,SO-34020,14795.039999999999
+10283,2.91,0.05,Generic,Tablet,Haiti,150mg,"Lamivudine 150mg, tablets, 60 Tabs",519,SO-2057,35946.11
+176,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",71,SCMS-137180,7383.25
+2957,80.0,0.8,Determine,Test kit,Uganda,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1313,SCMS-171680,268769.81
+1000,44.5,0.74,Generic,Tablet,Vietnam,300mg,"Abacavir 300mg, tablets, 60 Tabs",91,SCMS-77,52468.595
+5581,1.92,0.01,Generic,Oral suspension,Côte d'Ivoire,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",1988,SO-1144,16878.66
+450,25.45,0.42,Generic,Tablet,Haiti,300mg,"Abacavir 300mg, tablets, 60 Tabs",47,SO-23790,12907.830000000002
+9000,19.9,0.66,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",1081,SCMS-82750,185320.24000000002
+500,16.5,0.07,Generic,Oral solution,Zambia,20mg/ml,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",178,SO-751,9369.1
+8000,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3803,SCMS-157660,704972.38
+2591,77.7,0.78,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",994,SCMS-118370,214491.73
+53705,4.64,0.15,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",5565,SO-46501,284337.25
+100000,8.11,0.14,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",18737,SO-46875,821691.0599999999
+67334,8.58,0.14,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",8716,SO-44930,604780.37
+17188,10.5,0.35,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2388,SCMS-236120,184449.85
+1600,24.0,0.8,Bioline,Test kit,Rwanda,300mg,"HIV 1/2, Bioline 3.0 Kit, (no accessories), 30 Tests",571,SCMS-87190,43644.340000000004
+7850,5.94,0.1,Generic,Tablet,Côte d'Ivoire,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",909,SCMS-204990,52707.21
+10727,4.3,0.07,Generic,Chewable/dispersible tablet - FDC,Tanzania,60/100/12mg,"Lamivudine/Nevirapine/Stavudine 60/100/12mg, dispersible tablets, 60 Tabs",945,SO-43110,53770.369999999995
+1200,0.0,0.0,Generic,Delayed-release capsules,Côte d'Ivoire,200mg,"Didanosine 200mg, [DON] delayed-release capsules, 30 Caps",80,SO-47170,1532.73
+30480,7.78,0.13,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",698,SO-42150,264312.20999999996
+87499,2.44,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",9645,SO-41253,241238.1
+384,26.09,0.43,Generic,Capsule,Uganda,150mg,"Atazanavir 150mg, capsules, 60 Caps",40,SCMS-58250,11028.269999999999
+250000,8.11,0.14,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",34074,SCMS-219210,2176319.12
+132000,5.35,0.18,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",12886,SCMS-129780,809952.08
+58097,6.47,0.11,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",19451,SO-33690,393522.53
+22430,1.84,0.03,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",939,SCMS-161070,43369.99
+60000,10.5,0.35,Generic,Tablet - FDC,Haiti,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",8113,SCMS-233910,638865.4400000001
+350,24.5,24.5,Colloidal Gold,Test kit,Haiti,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",240,SCMS-225421,11419.96
+28869,20.0,0.67,Generic,Tablet,Rwanda,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",3865,SCMS-239030,583651.91
+3926,2.18,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",477,SO-49284,9103.0
+3769,41.1,0.34,Aluvia,Tablet,Zambia,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",821,SO-804,159222.19
+50,2.44,0.04,Generic,Tablet,Nigeria,150mg,"Lamivudine 150mg, tablets, 60 Tabs",112,SO-32270,7568.04
+5745,4.51,0.15,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",488,SCMS-104380,30185.41
+3360,26.25,0.88,Truvada,Tablet - FDC,Zambia,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",281,SO-1121,89873.53
+252,13.0,0.43,Generic,Delayed-release capsules,Vietnam,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",17,SCMS-65030,3719.68
+32000,10.02,0.04,Ziagen,Oral solution,South Africa,20mg/ml,"Abacavir 20mg/ml [Ziagen], oral solution, Bottle, 240 ml",12374,SCMS-93470,333034.68
+99366,4.32,0.14,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",8045,SO-38732,443480.89
+1227,8.76,0.15,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",107,SO-36005,20507.79
+15750,2.59,0.04,Generic,Tablet,Rwanda,150mg,"Lamivudine 150mg, tablets, 60 Tabs",986,SCMS-50820,44888.27
+2208,1.92,0.01,Generic,Oral suspension,Haiti,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",827,SO-24850,12037.55
+2000,1.41,0.02,Generic,Capsule,Côte d'Ivoire,30mg,"Stavudine 30mg, capsules, 60 Caps",98,SO-36341,5027.219999999999
+9575,80.0,0.8,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3890,SCMS-211560,796031.47
+2400,96.0,0.96,Determine,Test kit,Dominican Republic,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",978,SCMS-231360,240796.0
+3524,24.76,0.21,Generic,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",3264,SO-43340,101745.22
+92000,11.5,0.38,Generic,Tablet - FDC,Zambia,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",7579,SO-29070,1066832.96
+1200,23.0,0.77,Generic,Tablet - FDC,Côte d'Ivoire,600/300mg,"Abacavir/Lamivudine 600/300mg, scored tablets, 30 Tabs",108,SO-35570,32781.19
+29796,6.52,0.11,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",5862,SO-47286,223282.2
+10000,6.57,0.22,Generic,Tablet,Ethiopia,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",716,SO-38420,68784.68999999999
+1417,1.83,0.01,Generic,Oral suspension,Côte d'Ivoire,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",538,SO-34413,4794.09
+20000,9.28,0.04,Ziagen,Oral solution,South Africa,20mg/ml,"Abacavir 20mg/ml [Ziagen], oral solution, Bottle, 240 ml",7670,SCMS-104230,193081.91999999998
+28,350.0,3.5,OraQuick,Test kit,Haiti,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",109,SCMS-23840,10597.81
+1600,24.5,24.5,Colloidal Gold,Test kit,Botswana,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",1111,SCMS-155780,47797.9
+435,12.08,0.05,Generic,Oral solution,Zimbabwe,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",116,SO-45131,8361.3
+100986,3.4,0.11,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",10579,SCMS-156530,385419.71
+5000,20.0,0.67,Generic,Tablet,Haiti,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",670,SCMS-198140,105033.42
+50,7.9,0.13,Generic,Tablet,Uganda,300mg,"Zidovudine 300mg, tablets, 60 Tabs",3,SO-17790,1374.69
+50000,3.24,0.11,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5593,SCMS-198541,181960.07
+37470,11.15,0.37,Generic,Tablet - FDC,Cameroon,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",4927,SCMS-204290,484182.63
+13141,3.4,0.06,Generic,Tablet,Côte d'Ivoire,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1271,SO-1143,55473.64
+2040,1.51,0.01,Generic,Oral suspension,Haiti,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",820,SCMS-210470,5298.9
+1080,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",259,SCMS-27300,91935.93
+2976,1.95,0.01,Generic,Oral suspension,South Sudan,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",1108,SO-44110,16564.38
+2000,1.9,0.03,Generic,Chewable/dispersible tablet - FDC,Namibia,30/6mg,"Lamivudine/Stavudine 30/6mg, dispersible tablets, 60 Tabs",251,SCMS-45620,5292.2
+650,11.0,0.37,Generic,Delayed-release capsules,Côte d'Ivoire,200mg,"Didanosine 200mg, delayed-release capsules, 30 Caps",61,SO-40792,8734.77
+3053,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1240,SCMS-196561,292758.33999999997
+30120,18.9,0.16,Aluvia,Tablet,Mozambique,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",6697,SO-49720,573849.1499999999
+915,100.0,1.0,Determine,Test kit,Guyana,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",439,SCMS-115830,103592.92
+92,32.0,1.6,Uni-Gold,Test kit,Rwanda,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",28,SO-825,4553.67
+43000,9.6,0.32,Generic,Tablet - FDC,Zambia,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",68951,SO-49622,493263.45999999996
+31240,8.76,0.15,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2832,SO-33620,279149.84
+20970,10.6,0.18,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2447,SCMS-113620,225322.59
+600,41.1,0.34,Aluvia,Tablet,Rwanda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",859,SO-1534,30230.86
+4163,19.92,0.66,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",483,SO-39753,85431.19
+9833,18.9,0.16,Aluvia,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",2033,SO-50640,195544.63
+15654,9.76,0.33,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",112027,SO-49710,232454.54
+54245,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",5063,SCMS-93560,372073.19
+4235,4.15,0.07,Generic,Chewable/dispersible tablet - FDC,Haiti,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",236,SCMS-177170,19812.120000000003
+1756,11.4,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",198,SO-33337,29399.130000000005
+20000,9.28,0.04,Ziagen,Oral solution,South Africa,20mg/ml,"Abacavir 20mg/ml [Ziagen], oral solution, Bottle, 240 ml",7293,SCMS-104180,192466.58
+10364,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",4212,SCMS-239690,985810.25
+2240,3.43,0.11,Norvir,Tablet,Mozambique,100mg,"Ritonavir 100mg [Norvir], film coated tablets, 30 Tabs",216,SCMS-82730,10398.04
+46749,11.99,0.4,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",7500,SCMS-156271,580423.0
+60968,1.95,0.01,Generic,Oral suspension,Mozambique,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",53692,SO-41760,148737.34
+6,8.11,0.14,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",6589,SO-47274,26779.71
+25000,7.5,0.12,Generic,Tablet - FDC,Vietnam,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",2348,SCMS-314,209239.59
+5361,80.0,0.8,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1098,SCMS-58381,440734.05
+10233,2.12,0.01,Generic,Oral suspension,South Africa,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",3542,SCMS-83790,28400.78
+210,7.4,0.12,Generic,Tablet,Uganda,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",36,SCMS-142260,2233.58
+600,2.73,0.05,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",306,SO-35870,5586.86
+4000,3.4,0.06,Generic,Tablet - FDC,Zimbabwe,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",632,SO-27210,16928.8
+65,125.0,3.47,ImmunoComb,Test kit,Mali,300mg,"HIV 1/2, ImmunoComb TriSpot Ag - Ab Kit, 36 Tests",24,SCMS-260770,9192.94
+20000,1.8,0.01,Generic,Oral suspension,Zambia,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",7482,SO-39920,42861.12
+564,8.15,0.14,Generic,Tablet,Guyana,300mg,"Zidovudine 300mg, tablets, 60 Tabs",34,SO-694,6523.950000000001
+1625,13.0,0.43,Generic,Delayed-release capsules,Ethiopia,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",111,SCMS-98310,22366.48
+55560,3.4,0.06,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3224,SO-2488,193423.7
+22,89.0,0.89,Determine,Test kit,Sudan,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",11,SCMS-120443,2939.64
+23090,2.26,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",394,SO-44340,63381.61
+27122,11.49,0.38,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2843,SCMS-177620,321757.54000000004
+1000,82.19,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",226,SCMS-762,85244.96
+4928,12.5,0.05,Generic,Oral solution,Rwanda,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",1800,SO-42120,74186.94
+20000,2.73,0.05,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1946,SO-35220,58086.659999999996
+288,3.2,0.05,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",28,SO-17230,1819.67
+1500,5.54,0.18,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",729,SO-41510,12080.05
+4200,3.89,0.06,Generic,Chewable/dispersible tablet - FDC,Côte d'Ivoire,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",180,SO-44180,18323.78
+27634,2.1,0.04,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1616,SCMS-153090,61260.64
+22260,11.0,0.37,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1921,SO-17640,247788.63999999998
+241,8.51,0.04,Generic,Oral solution,Zimbabwe,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",64,SO-45122,9353.45
+70,71.99,0.72,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",16,SCMS-18420,5562.84
+40000,7.12,0.12,Generic,Tablet - FDC,Nigeria,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",2970,SO-24483,292688.04000000004
+2988,24.5,24.5,Colloidal Gold,Test kit,Rwanda,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",1992,SCMS-198222,99562.9
+6158,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2493,SCMS-260700,579715.68
+760,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",188,SCMS-48800,63683.24
+26000,5.87,0.2,Generic,Tablet - FDC,Tanzania,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",3888,SO-44983,160865.98
+482,5.0,0.08,Generic,Chewable/dispersible tablet,Haiti,60mg,"Abacavir 60mg, dispersible tablets, 60 Tabs",50,SCMS-209710,3755.42
+470,1.49,0.02,Generic,Capsule,Mozambique,30mg,"Stavudine 30mg, capsules, 60 Caps",31,SO-32180,1748.71
+25,1.32,0.02,Generic,Capsule,Guyana,15mg,"Stavudine 15mg, capsules, 60 Caps",5,SO-42790,964.39
+42444,8.63,0.29,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1423,SO-40281,373519.56
+18560,9.1,0.15,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1698,SCMS-30310,185641.26
+400,20.0,0.8,Bioline,Test kit,Zambia,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",134,SCMS-352,9054.265
+24876,11.46,0.19,Generic,Tablet,Tanzania,300mg,"Abacavir 300mg, tablets, 60 Tabs",2345,SO-46710,287888.34
+57804,3.6,0.06,Generic,Chewable/dispersible tablet - FDC,Zimbabwe,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",15222,SO-48440,226821.55000000002
+1000,1.92,0.01,Generic,Oral suspension,Vietnam,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",941,SCMS-753,6116.5599999999995
+6900,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2262,SCMS-189250,248111.71000000002
+24657,4.12,0.14,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1511,SO-40932,109157.46999999999
+50,32.0,1.6,Uni-Gold,Test kit,Botswana,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",26,SCMS-77130,2262.7200000000003
+100,15.74,0.26,Generic,Tablet,Vietnam,300mg,"Abacavir 300mg, tablets, 60 Tabs",10,SCMS-77280,5474.07
+12,308.17,17.12,LAV,Test kit,Côte d'Ivoire,300mg,"HIV 2, New LAV Blot 2 HIV Kit, 18 Tests",46,SO-529,5310.96
+11644,3.0,0.01,Generic,Oral solution,South Africa,10mg/ml,"Lamivudine 10mg/ml, oral solution w/syringe, Bottle, 240 ml",4442,SCMS-68951,38290.899999999994
+35820,7.15,0.12,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3114,SCMS-152840,275252.06
+25000,10.24,0.34,Generic,Tablet - FDC,Haiti,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",3034,SCMS-261510,263921.44
+26598,8.15,0.14,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",3301,SCMS-188670,222806.13
+400000,9.76,0.33,Generic,Tablet - FDC,Zimbabwe,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",45186,SO-49150,3955414.7800000003
+3067,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1228,SCMS-196560,286626.31
+62369,4.3,0.14,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5009,SCMS-69711,285796.82
+1000,50.0,0.28,Crixivan,Capsule,Côte d'Ivoire,400mg,"Indinavir 400mg [Crixivan], capsules, 180 Caps",254,SCMS-64940,50989.130000000005
+746,41.1,0.14,Kaletra,Oral solution,Zambia,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",88,SO-628,32275.87
+500,40.0,2.0,Uni-Gold,Test kit,Rwanda,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",173,SCMS-290,38019.065
+388,66.6,0.55,Prezista,Tablet,Uganda,300mg,"Darunavir 300mg [Prezista], tablets, 120 Tabs",68,SCMS-171950,27444.53
+292,32.0,1.6,Uni-Gold,Test kit,"Congo, DRC",300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",99,SCMS-149130,11519.650000000001
+3000,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1428,SCMS-141420,268479.4
+60757,3.3,0.11,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5215,SCMS-156500,220915.48
+400,16.0,0.18,Generic,Capsule,Nigeria,200mg,"Efavirenz 200mg, capsule, 90 Caps",48,SO-1494,7670.34
+1400,32.0,1.6,Uni-Gold,Test kit,Namibia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",500,SCMS-54910,49958.049999999996
+3000,25.58,0.43,Generic,Tablet,Côte d'Ivoire,300mg,"Abacavir 300mg, tablets, 60 Tabs",187,SO-16222,82000.83
+28868,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",3570,SO-36436,330744.47000000003
+21529,4.7,0.16,Generic,Tablet - FDC,Zambia,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",9530,SO-47204,117758.86000000002
+240,26.09,0.43,Generic,Capsule,Uganda,150mg,"Atazanavir 150mg, capsules, 60 Caps",25,SCMS-58160,7188.960000000001
+1500,80.0,0.8,Determine,Test kit,"Congo, DRC",300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",448,SO-42450,122925.64
+65500,3.04,0.05,Generic,Tablet,Ethiopia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",3858,SO-1537,211486.38999999998
+38000,3.56,0.12,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3140,SO-43800,143181.11
+8261,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",298,SCMS-247350,281021.69
+109226,4.12,0.14,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",6636,SO-41410,461240.24
+100000,2.58,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",18672,SO-41266,283593.68
+2452,7.3,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",127,SCMS-104370,65030.759999999995
+5900,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",1989,SCMS-25700,208739.53
+961,1.25,0.04,Generic,Chewable/dispersible tablet,Uganda,50mg,"Nevirapine 50mg, dispersible tablets (tablets for oral suspension), 30 Tabs",53,SCMS-173450,2406.1400000000003
+90,21.5,0.09,Generic,Oral solution,Rwanda,20mg/ml,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",120,SO-481,13634.845
+25,350.0,3.5,OraQuick,Test kit,Haiti,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",60,SCMS-10130,11861.85
+6552,6.5,0.22,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",524,SCMS-45020,47125.18
+50000,9.81,0.16,Generic,Tablet - FDC,Côte d'Ivoire,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",5625,SO-41172,502889.95
+1000,36.16,0.3,Aluvia,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",205,SO-38010,40200.46
+7500,80.0,0.8,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2215,SCMS-42980,618011.31
+1550,50.0,0.28,Crixivan,Capsule,Côte d'Ivoire,400mg,"Indinavir 400mg [Crixivan], capsules, 180 Caps",345,SO-1284,79512.48
+26712,5.78,0.19,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2342,SO-34680,166744.93
+2000,72.0,0.72,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",590,SCMS-42641,150273.03999999998
+2884,45.6,0.06,Coartem,Tablet - FDC + blister,Nigeria,20/120mg,"Artemether/Lumefantrine 20/120mg [Coartem], scored tablets, Blister 30 x 24 Tabs",2006,SCMS-140020,144418.1
+53109,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",19464,SO-39610,610264.25
+76733,11.15,0.37,Generic,Tablet - FDC,Cameroon,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",9268,SCMS-204320,934387.4099999999
+809,11.4,0.19,Generic,Tablet,Vietnam,300mg,"Abacavir 300mg, tablets, 60 Tabs",81,SCMS-199730,9693.73
+3386,7.5,0.12,Generic,Tablet - FDC,Tanzania,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",31,SO-428,27074.535
+32,32.0,1.6,Uni-Gold,Test kit,Malawi,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",17,SCMS-179341,1728.52
+264,30.82,0.1,Kaletra,Oral solution,Tanzania,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",257,SCMS-202310,10306.9
+68000,1.74,0.03,Generic,Tablet,Zambia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",6221,SO-49570,127783.44
+2245,82.2,0.68,Aluvia,Tablet,Guyana,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",598,SCMS-116140,190021.96
+2004,2.53,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",3,SCMS-68980,6872.46
+284,13.52,0.45,Generic,Tablet - FDC,Nigeria,600/300mg,"Abacavir/Lamivudine 600/300mg, scored tablets, 30 Tabs",48,SO-44759,38062.79
+62000,11.46,0.19,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",6795,SO-45060,725715.85
+7426,10.68,0.18,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3073,SO-524,87383.57999999999
+142,71.99,0.72,Determine,Test kit,Namibia,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",33,SCMS-19130,11954.11
+10050,2.18,0.04,Generic,Tablet,Haiti,200mg,"Nevirapine 200mg, tablets, 60 Tabs",659,SCMS-240170,27518.05
+25000,8.36,0.14,Generic,Tablet - FDC,South Africa,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2275,SCMS-83830,212524.34
+168,32.0,1.6,Uni-Gold,Test kit,Kenya,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",56,SO-12700,5552.04
+1337,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",639,SCMS-136930,119132.13
+1400,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",577,SCMS-201900,121414.12999999999
+50,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",15,SO-635,5453.535
+92933,7.2,0.12,Generic,Tablet - FDC,Mozambique,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",7011,SO-15082,677628.7899999999
+2000,139.0,1.39,Capillus,Test kit,Tanzania,300mg,"HIV 1/2, Capillus HIV Kit, 100 Tests",1415,SO-758,282902.8
+6000,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",789,SO-36934,73612.32
+35065,1.55,0.03,Generic,Capsule,Ethiopia,30mg,"Stavudine 30mg, capsules, 60 Caps",2318,SCMS-11071,61193.52
+1362,24.5,24.5,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",970,SCMS-133580,42267.18
+85000,2.22,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",11125,SCMS-234730,273685.08
+10371,11.35,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1273,SO-30111,125435.06000000001
+120,27.0,1.35,Stat-Pak,Test kit,Guyana,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",35,SCMS-11660,3624.7999999999997
+1000,92.0,0.92,Determine,Test kit,Dominican Republic,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",399,SCMS-117390,100928.37
+362,32.0,1.6,Uni-Gold,Test kit,"Congo, DRC",300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",134,SCMS-168010,13539.67
+4315,2.1,0.01,Generic,Oral solution,Haiti,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",2520,SO-33030,34953.36
+2127,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",881,SCMS-189240,184389.87
+14,11.15,0.37,Generic,Tablet - FDC,Nigeria,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",38142,SO-45663,49356.04
+125000,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",16790,SO-37530,1508951.79
+336,7.78,0.13,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",27,SO-41202,4463.049999999999
+5178,89.11,0.33,Invirase,Capsule,Tanzania,200mg,"Saquinavir 200mg [Invirase], capsules, 270 Caps",2666,SCMS-46510,479092.41
+6510,8.87,0.1,Generic,Capsule,Tanzania,200mg,"Efavirenz 200mg, capsule, 90 Caps",830,SO-40540,59537.81
+3200,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1526,SCMS-118550,284375.12
+50,400.0,4.0,OraQuick,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",120,SCMS-593,23095.155
+6000,20.0,0.67,Generic,Tablet,Uganda,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",811,SCMS-212360,124263.31
+2538,1.25,0.04,Generic,Chewable/dispersible tablet,South Sudan,50mg,"Nevirapine 50mg, dispersible tablets (tablets for oral suspension), 30 Tabs",165,SCMS-244550,5136.650000000001
+8460,32.0,1.6,Uni-Gold,Test kit,Tanzania,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2770,SCMS-169320,297336.37
+7107,2.1,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",2633,SO-34372,18642.28
+212934,8.26,0.14,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",27953,SO-46871,1779891.62
+4327,70.0,0.7,Determine,Test kit,Rwanda,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",986,SCMS-25140,329949.23
+109554,11.22,0.19,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",20316,SO-35730,1257636.8499999999
+148,36.69,0.25,Viracept,Oral powder,Rwanda,50mg/g,"Nelfinavir 50mg/g [Viracept], oral powder, 144g",27,SCMS-63651,6694.92
+7500,4.75,0.16,Generic,Tablet,Nigeria,600mg,"Efavirenz 600mg, tablets, 30 Tabs",662,SO-34914,45437.909999999996
+41948,11.4,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4724,SO-32643,486590.29
+18616,10.15,0.34,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2101,SCMS-263630,193530.65
+5000,12.01,0.4,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4247,SO-2479,68378.03
+40900,3.28,0.05,Generic,Tablet - FDC,Zambia,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",3127,SO-36840,142551.15000000002
+964,20.04,0.17,Generic,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",6705,SO-45641,47007.07000000001
+237,30.82,0.1,Kaletra,Oral solution,Tanzania,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",244,SCMS-175500,10583.28
+22008,8.61,0.14,Generic,Tablet - FDC,Vietnam,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2148,SCMS-56540,202654.22
+28330,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",2645,SCMS-83730,193913.6
+6376,7.02,0.12,Generic,Tablet,Zambia,300mg,"Zidovudine 300mg, tablets, 60 Tabs",639,SO-40272,45723.31
+2150,10.0,0.33,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",179,SO-34300,23738.43
+3262,2.51,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",190,SO-41592,9294.32
+9630,3.15,0.01,Generic,Oral suspension,South Africa,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",3732,SCMS-75480,35276.240000000005
+3000,13.0,0.43,Generic,Delayed-release capsules,Ethiopia,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",201,SCMS-72370,40204.65
+848,7.3,0.08,Generic,Tablet,Nigeria,200mg,"Efavirenz 200mg, scored tablets, 90 Tabs",73,SO-43846,20745.61
+6227,80.0,0.8,Determine,Test kit,Uganda,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2527,SCMS-264750,519280.73000000004
+35,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",176,SCMS-200920,5246.13
+1319,8.0,0.13,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",108,SO-41595,12184.800000000001
+13130,18.64,0.16,Aluvia,Tablet,Nigeria,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",3232,SO-49931,249490.09000000003
+8905,35.8,0.6,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",3139,SO-498,331984.225
+152000,9.62,0.16,Generic,Tablet - FDC,Cameroon,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",43571,SO-43390,1532022.6
+20000,8.76,0.15,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1807,SO-34415,196890.59000000003
+17851,11.89,0.4,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",2117,SO-47650,214129.76
+1946,2.33,0.04,Generic,Tablet,Uganda,150mg,"Lamivudine 150mg, tablets, 60 Tabs",195,SO-40220,6612.34
+19356,13.49,0.45,Generic,Tablet - FDC,Nigeria,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",1960,SO-48310,268389.86
+75048,7.43,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",4023,SCMS-69050,562124.07
+579,6.85,0.11,Norvir,Tablet,Uganda,100mg,"Ritonavir 100mg [Norvir], film coated tablets, 60 Tabs",83,SCMS-244370,4770.23
+2520,7.21,0.12,Generic,Tablet,Haiti,300mg,"Zidovudine 300mg, tablets, 60 Tabs",145,SO-36750,24646.739999999998
+4750,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1930,SCMS-228070,403403.84
+1139,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",542,SCMS-155321,114630.98
+1395,7.71,0.13,Generic,Tablet,Rwanda,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",188,SCMS-126470,13809.07
+120,55.5,0.92,Isentress,Tablet,Haiti,400mg,"Raltegravir 400mg [Isentress], tablets, 60 Tabs",11,SCMS-176120,6928.24
+22790,7.27,0.12,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",22259,SO-43045,195696.09
+42500,8.04,0.13,Generic,Tablet,Zimbabwe,100/25mg,"Lopinavir/Ritonavir 100/25mg, tablets, 60 Tabs",3868,SCMS-148270,358389.37
+54768,2.44,0.08,Generic,Capsule,South Africa,50mg,"Efavirenz 50mg, capsule, 30 Caps",3237,SCMS-103410,144777.88
+3510,23.0,23.0,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",2535,SCMS-32640,103923.92
+30,350.0,3.5,OraQuick,Test kit,Cameroon,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",75,SCMS-203100,11919.74
+2265,30.82,0.1,Kaletra,Oral solution,Zambia,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",2272,SCMS-253022,83182.86
+4120,7.3,0.08,Generic,Tablet,Côte d'Ivoire,200mg,"Efavirenz 200mg, scored tablets, 90 Tabs",253,SO-42371,34379.2
+10080,11.48,0.38,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",772,SCMS-20540,121796.62999999999
+10979,29.68,0.25,Generic,Tablet,Rwanda,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",2881,SO-42760,332138.73999999993
+5765,7.3,0.08,Generic,Tablet,Tanzania,200mg,"Efavirenz 200mg, scored tablets, 90 Tabs",350,SO-43111,44409.5
+2569,30.82,0.1,Kaletra,Oral solution,Zambia,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",2410,SCMS-215200,93642.88
+20284,9.5,0.16,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1897,SO-1685,196832.49000000002
+1275,27.0,1.35,Stat-Pak,Test kit,Uganda,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",483,SCMS-18900,38673.96
+10000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3345,SCMS-10280,229790.0
+33171,18.9,0.16,Aluvia,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",7355,SO-47153,656223.91
+50000,50.4,1.68,Atripla,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg [Atripla], tablets, 30 Tabs",4093,SCMS-34680,2534278.2
+25509,2.51,0.04,Generic,Tablet,Ghana,200mg,"Nevirapine 200mg, tablets, 60 Tabs",2216,SO-39930,64359.49
+7255,8.13,0.14,Generic,Tablet - FDC,Tanzania,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",917,SCMS-198780,63732.72
+13023,2.58,0.04,Generic,Tablet,Swaziland,200mg,"Nevirapine 200mg, tablets, 60 Tabs",750,SO-40690,37442.43
+15890,12.11,0.4,Generic,Tablet - FDC,Haiti,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",1807,SO-44420,223510.03
+132,15.08,0.06,Ziagen,Oral solution,Tanzania,20mg/ml,"Abacavir 20mg/ml [Ziagen], oral solution, Bottle, 240 ml",65,SCMS-26640,2626.74
+4,350.0,3.5,OraQuick,Test kit,Mali,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",11,SCMS-221920,2596.6800000000003
+20142,4.95,0.16,Generic,Tablet,Vietnam,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",6142,SCMS-131690,113693.32999999999
+2496,27.0,1.35,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",702,SCMS-344,71956.685
+1905,1.43,0.01,Generic,Oral solution,Ghana,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",786,SCMS-245400,7031.290000000001
+630,9.59,0.11,Norvir,Capsule,Mozambique,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 84 Caps",185,SO-1824,7265.57
+43309,3.24,0.11,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5000,SCMS-260970,147379.85
+35000,7.12,0.12,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",2604,SO-32510,252137.13999999998
+641,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",58,SO-2579,17963.67
+11912,1.56,0.05,Generic,Capsule,Tanzania,50mg,"Efavirenz 50mg, capsule, 30 Caps",802,SCMS-210910,24346.250000000004
+20,30.82,0.1,Kaletra,Oral solution,"Congo, DRC",80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",52,SCMS-189060,2190.57
+66667,12.42,0.41,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5253,SO-1189,848185.28
+116931,10.78,0.36,Generic,Tablet - FDC,Tanzania,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",13280,SO-45740,1269158.6199999999
+11711,6.91,0.23,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",1093,SCMS-75980,86557.95999999999
+40126,1.95,0.01,Generic,Oral suspension,Zambia,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",12360,SO-40240,89666.86
+26000,7.21,0.12,Generic,Tablet,Zambia,300mg,"Zidovudine 300mg, tablets, 60 Tabs",1405,SO-38731,191718.5
+616,50.0,0.28,Crixivan,Capsule,Mozambique,400mg,"Indinavir 400mg [Crixivan], capsules, 180 Caps",227,SO-17530,32803.42
+7400,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2471,SCMS-130150,271063.56
+6,2.33,0.04,Generic,Tablet,"Congo, DRC",150mg,"Lamivudine 150mg, tablets, 60 Tabs",6,SO-41380,536.42
+2352,80.0,0.8,Determine,Test kit,Pakistan,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1117,SCMS-132510,203383.62999999998
+16752,9.45,0.16,Generic,Tablet - FDC,Haiti,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1580,SO-2595,170131.69
+5218,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",617,SO-36150,63866.41
+213502,7.72,0.13,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",31271,SO-48890,1712623.68
+121,75.0,0.62,Intelence,Tablet,Uganda,100mg,"Etravirine 100mg [Intelence], tablets, 120 Tabs",43,SCMS-143480,9286.72
+5000,20.0,0.67,Generic,Tablet,Haiti,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",1189,SCMS-210530,107420.67
+185954,2.47,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",9019,SCMS-84230,473974.32
+3240,36.16,0.3,Aluvia,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",800,SCMS-63750,122733.34
+5337,18.9,0.16,Aluvia,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1089,SO-48991,104703.79000000001
+6500,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2634,SCMS-243800,551312.85
+323,11.23,0.19,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",35,SO-48012,3673.37
+4000,4.0,0.07,Generic,Tablet - FDC,Zimbabwe,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",305,SO-18111,18729.4
+859,6.57,0.22,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",12232,SO-38540,65663.67
+127,1.92,0.01,Generic,Oral suspension,Uganda,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",46,SO-1995,984.57
+268,30.82,0.1,Kaletra,Oral solution,Tanzania,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",261,SCMS-225810,10837.58
+48866,4.51,0.15,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4154,SCMS-103510,230700.67
+1350,9.45,0.16,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",239,SO-2344,14055.13
+1200,80.0,0.8,Determine,Test kit,Burundi,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",577,SCMS-141780,110628.4
+180,10.28,0.17,Generic,Tablet,Haiti,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",31,SCMS-17670,2764.2200000000003
+5900,4.75,0.16,Generic,Tablet,Zimbabwe,600mg,"Efavirenz 600mg, tablets, 30 Tabs",509,SO-35350,31918.589999999997
+125202,11.22,0.19,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",34813,SO-40060,1421801.1300000001
+6998,23.0,23.0,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",4913,SCMS-28690,207386.56
+216,1.32,0.02,Generic,Capsule,Haiti,15mg,"Stavudine 15mg, capsules, 60 Caps",165,SO-44450,3333.55
+11807,3.57,0.06,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1050,SO-768,45509.43
+9363,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3800,SCMS-210351,892930.3400000001
+448,13.7,0.06,Generic,Oral solution,Côte d'Ivoire,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",1135,SO-38530,24089.2
+47733,1.92,0.03,Generic,Chewable/dispersible tablet - FDC,Zimbabwe,30/60mg,"Lamivudine/Zidovudine 30/60mg, dispersible tablets, 60 Tabs",6368,SO-50011,94347.79
+36273,10.52,0.35,Generic,Tablet - FDC,Uganda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",4846,SO-43870,395807.45000000007
+3500,1.95,0.01,Generic,Oral suspension,Côte d'Ivoire,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",1313,SO-39670,12437.25
+16019,8.76,0.15,Generic,Tablet - FDC,Ethiopia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1454,SO-35470,145816.48
+963,32.0,1.6,Uni-Gold,Test kit,Rwanda,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",320,SCMS-38670,33977.06
+141764,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",70109,SO-38320,1637569.4000000001
+997,0.01,0.0,Bioline,Test kit,Kenya,300mg,"HIV, Bioline HIV 1/2 3.0 Kit, [DON] 25 Tests",399,SO-1720,427.41
+5670,1.41,0.02,Generic,Capsule,Côte d'Ivoire,30mg,"Stavudine 30mg, capsules, 60 Caps",317,SO-37141,20660.3
+9000,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",9000,SCMS-17800,344207.39
+450,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",165,SCMS-181381,16746.95
+10000,7.3,0.08,Generic,Tablet,Zambia,200mg,"Efavirenz 200mg, scored tablets, 90 Tabs",684,SO-44460,74116.79000000001
+7002,23.0,23.0,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",4922,SCMS-28690,207478.74
+2000,97.68,0.98,Determine,Test kit,Haiti,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",453,SCMS-98580,202713.28
+38000,15.5,0.26,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",10847,SO-38720,605945.74
+1503,16.96,0.09,Stocrin/Sustiva,Oral solution,Côte d'Ivoire,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",608,SO-2043,27528.350000000002
+950,70.0,0.7,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",216,SCMS-52774,70374.51999999999
+41949,11.4,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4724,SO-32642,486601.70999999996
+3182,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1290,SCMS-256500,269314.99
+4000,8.76,0.15,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",263,SO-36060,37573.810000000005
+3029,0.0,0.0,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1255,SCMS-189360,21384.75
+55300,9.76,0.33,Generic,Tablet - FDC,"Congo, DRC",600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",6247,SO-49311,601484.2999999999
+2052,16.96,0.09,Stocrin/Sustiva,Oral solution,Côte d'Ivoire,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",605,SCMS-123880,36275.369999999995
+3010,1.93,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",3202,SO-36890,18470.2
+28516,7.72,0.13,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",3772,SO-47707,223936.90999999997
+3240,10.25,0.34,Generic,Tablet - FDC,Burundi,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",614,SO-48620,37617.979999999996
+27,32.0,1.6,Uni-Gold,Test kit,Ethiopia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",10,SCMS-133350,1355.44
+42,12.5,0.05,Generic,Oral solution,Zimbabwe,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",16,SO-42221,1365.44
+5324,4.15,0.07,Generic,Chewable/dispersible tablet - FDC,Haiti,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",4654,SCMS-148440,30663.61
+4955,11.75,0.39,Generic,Tablet - FDC,Guyana,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",376,SO-36560,62815.119999999995
+2744,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1303,SCMS-157661,242445.15
+9200,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3327,SO-750,197900.8
+5625,7.71,0.13,Generic,Tablet,Zimbabwe,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",665,SCMS-90710,51011.66
+16873,2.44,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",8433,SO-40861,56457.76
+8898,80.0,0.8,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3611,SCMS-211561,736651.56
+4000,17.0,0.57,Viread,Tablet,Rwanda,300mg,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",256,SO-308,80295.935
+26540,7.43,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",1431,SCMS-69000,202502.56
+5184,15.0,0.25,Generic,Chewable/dispersible tablet,Côte d'Ivoire,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",1103,SO-40090,81184.64
+1644,4.04,0.13,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",97,SO-44150,8270.17
+2326,1.52,0.01,Generic,Oral solution,Côte d'Ivoire,1mg/ml,"Stavudine 1mg/ml, powder for oral solution, 200 ml",232,SO-1112,5245.969999999999
+1144,80.0,0.8,Determine,Test kit,Rwanda,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",468,SCMS-263320,100420.84
+2484,9.62,0.16,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",249,SO-43420,28683.77
+10000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3335,SCMS-10290,228781.1
+40035,8.26,0.14,Generic,Tablet - FDC,Côte d'Ivoire,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",16851,SO-46400,354874.56999999995
+4000,1.95,0.01,Generic,Oral suspension,Haiti,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",1496,SO-39680,22713.86
+7500,80.0,0.8,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2215,SCMS-42961,619150.65
+6155,14.93,0.25,Generic,Tablet,South Africa,300mg,"Abacavir 300mg, tablets, 60 Tabs",590,SCMS-103480,92192.28
+18800,3.75,0.06,Generic,Chewable/dispersible tablet - FDC,Côte d'Ivoire,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",802,SO-46310,75212.48000000001
+47625,7.82,0.26,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",3243,SCMS-68720,375111.69
+8000,36.16,0.3,Aluvia,Tablet,Ethiopia,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1647,SO-37630,293504.34
+3969,4.42,0.05,Generic,Capsule,Zimbabwe,200mg,"Efavirenz 200mg, capsule, 90 Caps",561,SO-48460,17812.429999999997
+3150,8.15,0.14,Generic,Tablet,Haiti,300mg,"Zidovudine 300mg, tablets, 60 Tabs",181,SO-2600,28657.79
+47136,4.62,0.15,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",5151,SCMS-240570,247249.84
+108650,3.21,0.11,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",9741,SO-47040,358485.17000000004
+36576,2.58,0.04,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",4145,SO-37910,96216.53
+168,13.0,0.43,Generic,Delayed-release capsules,Vietnam,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",2046,SCMS-69240,16594.02
+55000,4.25,0.07,Generic,Chewable/dispersible tablet - FDC,Zimbabwe,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",5357,SO-39290,237657.94999999998
+13830,9.62,0.16,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2400,SO-43190,151568.95
+1350,9.5,0.16,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",80,SO-1081,13584.52
+5791,32.0,1.6,Uni-Gold,Test kit,Nigeria,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",1918,SCMS-108700,209765.15000000002
+1000,1.92,0.01,Generic,Oral suspension,Vietnam,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",960,SCMS-749,15685.48
+16,20.0,0.8,Bioline,Test kit,Sudan,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",139,SCMS-81730,1950.54
+7,26.35,0.03,Generic,Tablet - FDC,Nigeria,500/25mg,"Sulfadoxine/Pyrimethamine 500/25mg, tablets, 1000 Tabs",488,SCMS-26840,4589.65
+20370,3.57,0.12,Generic,Tablet,Rwanda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1751,SCMS-137421,86067.65
+125320,10.52,0.35,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",16498,SO-43773,1330822.28
+113000,6.47,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",7663,SCMS-104030,741876.36
+369,2.1,0.01,Generic,Oral solution,Guyana,10mg/ml,"Zidovudine 10mg/ml, oral solution w/syringe, Bottle, 240 ml",103,SO-41020,3046.5299999999997
+1270,21.0,0.18,Generic,Tablet - FDC + co-blister,Uganda,150/300+200mg,"Lamivudine/Zidovudine+Nevirapine 150/300+200mg, tablets, co-blister, 60+60 Tabs",201,SCMS-176,28023.445
+8485,27.0,1.35,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",2441,SCMS-27050,251773.35
+42813,2.25,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",4369,SCMS-240080,118936.6
+8738,2.35,0.04,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",420,SCMS-68480,27262.26
+3510,23.0,23.0,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",2535,SCMS-32640,103322.14
+50000,12.01,0.4,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3880,SO-1896,605277.92
+40126,7.12,0.12,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",4414,SO-32490,290763.29
+1029,7.02,0.12,Generic,Tablet,"Congo, DRC",300mg,"Zidovudine 300mg, tablets, 60 Tabs",324,SO-41143,10669.85
+41840,5.94,0.1,Generic,Tablet,Zimbabwe,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",4528,SCMS-239170,273974.6
+131138,2.47,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",6360,SCMS-84250,336834.97
+109140,11.75,0.39,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",8735,SO-36009,1294895.9400000002
+1458,2.33,0.04,Generic,Tablet,Mozambique,150mg,"Lamivudine 150mg, tablets, 60 Tabs",79,SO-40340,4481.36
+50000,2.0,0.07,Generic,Tablet - FDC,Mozambique,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",3584,SO-1039,108565.91
+2160,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",5552,SO-36008,34023.55
+50510,10.87,0.36,Generic,Tablet - FDC,Côte d'Ivoire,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",6766,SO-45611,568000.94
+4200,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",1650,SCMS-50170,157831.26
+52,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",24,SCMS-178020,2836.42
+1400,20.5,0.82,Bioline,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",468,SCMS-201213,34108.37
+21080,9.0,0.15,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1716,SCMS-43860,207166.65
+34,16.96,0.09,Stocrin/Sustiva,Oral solution,Haiti,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",14,SO-2072,1474.11
+10702,2.12,0.01,Generic,Oral suspension,South Africa,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",3967,SCMS-83790,30906.86
+19,29.0,1.45,Stat-Pak,Test kit,Guyana,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",5,SCMS-153860,848.29
+9380,27.0,1.35,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",3058,SCMS-16880,272415.42
+66946,10.87,0.36,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",36903,SO-45901,736531.3
+5000,7.21,0.12,Generic,Tablet,Ethiopia,300mg,"Zidovudine 300mg, tablets, 60 Tabs",276,SO-36650,38338.94
+40,27.0,1.35,Stat-Pak,Test kit,Guyana,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",14,SCMS-89530,1351.76
+23524,8.76,0.15,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3155,SO-21880,215495.96
+27293,11.23,0.19,Generic,Tablet,Tanzania,300mg,"Abacavir 300mg, tablets, 60 Tabs",2525,SO-46673,309232.06000000006
+32000,10.02,0.04,Ziagen,Oral solution,South Africa,20mg/ml,"Abacavir 20mg/ml [Ziagen], oral solution, Bottle, 240 ml",12264,SCMS-93430,331446.98
+112007,12.11,0.4,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",12757,SO-42431,1379301.3
+305,25.5,0.85,Stat-Pak,Test kit,Burundi,300mg,"HIV 1/2, Stat-Pak Dipstick Assay Kit, 30 Tests",34,SCMS-141760,8625.199999999999
+2880,5.94,0.1,Generic,Tablet,Uganda,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",335,SCMS-173410,20574.43
+29426,6.85,0.23,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2529,SO-32940,205994.47
+325,16.96,0.09,Stocrin/Sustiva,Oral solution,Haiti,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",2085,SO-23750,29389.0
+2175,5.59,0.19,Generic,Tablet - FDC,Guyana,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",252,SCMS-256490,14702.369999999999
+100000,2.82,0.05,Generic,Tablet,South Africa,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6297,SCMS-75940,290134.13
+29500,3.04,0.05,Generic,Tablet,Ethiopia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1640,SO-1542,101096.49
+1300,3.4,0.06,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",16709,SO-2560,19637.07
+40454,3.4,0.06,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3787,SO-2490,141873.74
+224,13.6,0.06,Generic,Oral solution,Haiti,20mg/ml,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",746,SO-35920,9089.93
+1083,36.16,0.12,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",1042,SCMS-90651,57158.31
+9577,9.62,0.16,Generic,Tablet - FDC,Côte d'Ivoire,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",6889,SO-42370,116398.26000000001
+2000,2.1,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",749,SO-33550,6544.5
+650,32.0,1.6,Uni-Gold,Test kit,Namibia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",278,SCMS-31790,28777.58
+2600,20.99,0.35,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",8819,SO-33720,62703.56
+50000,10.87,0.36,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",22442,SO-46480,557167.3700000001
+715,11.23,0.19,Generic,Tablet,"Congo, DRC",300mg,"Abacavir 300mg, tablets, 60 Tabs",116,SO-49300,8928.7
+46500,10.74,0.36,Generic,Tablet - FDC,Haiti,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",5342,SCMS-240201,509119.0
+2371,29.0,1.45,Stat-Pak,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",939,SCMS-141410,77550.57999999999
+34900,1.81,0.03,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1588,SCMS-174360,74660.66
+47963,4.3,0.14,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3789,SCMS-103680,216163.74999999997
+6322,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2564,SCMS-256510,543724.02
+12000,2.0,0.07,Generic,Tablet - FDC,Zambia,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",700,SO-2547,24992.530000000002
+150,32.0,1.6,Uni-Gold,Test kit,Swaziland,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",58,SCMS-159081,5448.78
+4,75.0,3.0,Clearview,Test kit,Namibia,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",4,SCMS-47160,433.84
+2388,31.0,1.55,Stat-Pak,Test kit,Uganda,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",740,SCMS-239760,79822.49
+2335,8.04,0.13,Generic,Tablet,Uganda,100/25mg,"Lopinavir/Ritonavir 100/25mg, tablets, 60 Tabs",237,SCMS-264930,20284.49
+3364,12.42,0.41,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",369,SO-1304,43750.63
+4737,5.78,0.19,Generic,Tablet,Guyana,600mg,"Efavirenz 600mg, tablets, 30 Tabs",427,SO-34480,33499.9
+450,32.0,1.6,Uni-Gold,Test kit,Tanzania,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",149,SCMS-115000,16666.07
+125000,7.12,0.12,Generic,Tablet - FDC,Mozambique,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",9290,SO-32540,894144.66
+27053,4.62,0.15,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4598,SCMS-240570,150580.97999999998
+3007,3.57,0.12,Generic,Tablet,Rwanda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",262,SCMS-137410,14590.89
+1067,32.0,1.6,Uni-Gold,Test kit,Kenya,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",297,SO-12710,37815.299999999996
+2688,1.56,0.05,Generic,Capsule,Haiti,50mg,"Efavirenz 50mg, capsule, 30 Caps",154,SCMS-210470,6719.009999999999
+1280,9.69,0.11,Generic,Capsule,Nigeria,200mg,"Efavirenz 200mg, capsule, 90 Caps",177,SO-39850,25821.73
+11209,12.96,0.22,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",1143,SO-45920,147324.69000000003
+60929,8.1,0.13,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",8638,SCMS-198541,524899.5700000001
+450,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",164,SCMS-272150,16288.02
+104,15.21,0.25,Generic,Tablet,Vietnam,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",18,SCMS-155700,2196.13
+210,6.85,0.11,Norvir,Tablet,Uganda,100mg,"Ritonavir 100mg [Norvir], film coated tablets, 60 Tabs",32,SCMS-192070,2292.3
+2118,1.25,0.04,Generic,Chewable/dispersible tablet,Haiti,50mg,"Nevirapine 50mg, dispersible tablets (tablets for oral suspension), 30 Tabs",134,SCMS-258590,4638.04
+11949,8.76,0.15,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",1084,SO-32973,116516.05
+8657,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",4203,SCMS-119190,815873.0900000001
+4001,29.68,0.25,Generic,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",972,SO-42310,136018.73
+15960,2.4,0.04,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",755,SCMS-26170,44974.31
+5232,2.49,0.04,Generic,Tablet - FDC,Zambia,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",414,SO-47210,13811.21
+32080,2.39,0.08,Generic,Capsule,South Africa,50mg,"Efavirenz 50mg, capsule, 30 Caps",2666,SCMS-83790,98532.47
+100000,11.0,0.37,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",8645,SO-17600,1116197.17
+1515,9.98,0.11,Generic,Capsule,South Africa,200mg,"Efavirenz 200mg, capsule, 90 Caps",201,SCMS-83790,19287.22
+5320,50.4,1.68,Atripla,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg [Atripla], tablets, 30 Tabs",464,SCMS-52710,268683.53
+34044,4.67,0.16,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2892,SCMS-68860,165434.04
+1530,82.2,0.68,Aluvia,Tablet,Guyana,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",347,SO-2465,130187.37999999999
+5700,2.1,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Zidovudine 10mg/ml, oral solution w/syringe, Bottle, 240 ml",2845,SO-46421,22927.96
+11607,18.9,0.16,Aluvia,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",2653,SO-50620,233686.96
+574,26.7,0.22,Generic,Tablet,Tanzania,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",4758,SO-43120,21378.44
+46973,4.0,0.07,Generic,Tablet - FDC,Zambia,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",3237,SO-47990,192293.5
+10420,7.4,0.12,Generic,Tablet - FDC,Vietnam,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",1000,SCMS-20390,84757.43
+125,139.0,1.39,Capillus,Test kit,Haiti,300mg,"HIV 1/2, Capillus HIV Kit, 100 Tests",92,SCMS-15510,18828.57
+168,94.43,0.35,Invirase,Capsule,Mozambique,200mg,"Saquinavir 200mg [Invirase], capsules, 270 Caps",86,SCMS-52430,17138.08
+1796,1.52,0.03,Generic,Capsule,Côte d'Ivoire,30mg,"Stavudine 30mg, capsules, 60 Caps",5880,SO-959,17390.29
+4200,71.99,0.72,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",965,SCMS-18060,310623.65
+16495,3.6,0.06,Generic,Chewable/dispersible tablet - FDC,Nigeria,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",1636,SO-51429,65295.75
+140000,2.51,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",8783,SO-37330,360203.39
+2000,5.56,0.09,Generic,Tablet - FDC,Nigeria,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",209,SO-39160,23739.42
+2430,1.46,0.02,Generic,Capsule,Côte d'Ivoire,30mg,"Stavudine 30mg, capsules, 60 Caps",156,SO-34140,5854.05
+35000,5.54,0.18,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",2657,SO-42101,208503.85
+52164,2.58,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",12347,SO-40860,151784.01
+85158,10.68,0.18,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",8169,SO-311,943150.755
+9048,27.0,1.35,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",2985,SCMS-16890,265322.17
+9024,6.66,0.11,Generic,Tablet - FDC,Côte d'Ivoire,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",680,SO-34390,62915.86
+14500,11.49,0.38,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",1640,SCMS-188540,169314.16
+440000,2.43,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",19564,SCMS-103960,1104829.44
+16999,2.53,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",912,SCMS-68980,44891.61
+39,32.0,1.6,Uni-Gold,Test kit,Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",13,SCMS-120462,1831.79
+1975,32.0,1.6,Uni-Gold,Test kit,Guyana,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",659,SCMS-97150,72410.79
+5323,5.78,0.19,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",456,SO-34210,36171.82
+20160,12.11,0.4,Generic,Tablet - FDC,Zimbabwe,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2266,SO-43571,253845.41
+2788,15.5,0.26,Generic,Chewable/dispersible tablet,Côte d'Ivoire,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",588,SO-35563,48428.85
+5661,20.5,0.17,Generic,Tablet - FDC + co-blister,Nigeria,150/300+200mg,"Lamivudine/Zidovudine+Nevirapine 150/300+200mg, tablets, co-blister, 60+60 Tabs",725,SO-343,120245.535
+60,36.16,0.3,Aluvia,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",36,SCMS-54140,2987.89
+960,3.55,0.12,Generic,Tablet,Mozambique,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",76,SO-50500,3549.4100000000003
+2158,5.74,0.19,Generic,Tablet - FDC,Guyana,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",196,SO-47741,15408.98
+3800,20.5,0.82,Bioline,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",1267,SCMS-201210,90708.29000000001
+8132,3.64,0.12,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",690,SO-41590,33631.979999999996
+1245,39.0,0.05,Coartem,Tablet - FDC + blister,Nigeria,20/120mg,"Artemether/Lumefantrine 20/120mg [Coartem], scored tablets, Blister 30 x 24 Tabs",859,SCMS-93420,54470.24
+11640,7.75,0.13,Generic,Chewable/dispersible tablet,Tanzania,100mg,"Didanosine 100mg, chewable/dispersible tablets, 60 Tabs",16778,SO-1696,99397.98999999999
+17820,2.33,0.04,Generic,Tablet,Côte d'Ivoire,150mg,"Lamivudine 150mg, tablets, 60 Tabs",955,SO-40130,54195.14
+431,80.0,0.8,Determine,Test kit,Mali,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",186,SCMS-221930,39861.829999999994
+4340,1.9,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",1632,SO-36342,13385.460000000001
+240,80.0,0.8,Determine,Test kit,Swaziland,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",100,SCMS-159091,21501.559999999998
+20993,4.65,0.16,Generic,Tablet - FDC,Cameroon,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",2100,SCMS-204300,115306.79999999999
+30,99.4,1.99,Genie,Test kit,Uganda,300mg,"HIV 1/2, Genie III Kit, 50 Tests",17,SCMS-237180,3645.84
+150,32.0,1.6,Uni-Gold,Test kit,Angola,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",54,SO-779,5759.72
+2626,30.82,0.1,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",2584,SCMS-261590,101509.22
+87500,7.33,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",4416,SCMS-83730,650092.63
+1987,32.42,0.36,Stocrin/Sustiva,Capsule,Tanzania,200mg,"Efavirenz 200mg [Stocrin/Sustiva], capsule, 90 Caps",238,SO-1075,66986.61
+57984,2.33,0.04,Generic,Tablet,Zambia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",3144,SO-41840,142609.6
+100000,2.18,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6304,SCMS-239800,252407.07
+500,82.19,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",117,SCMS-759,42928.13
+2159,7.72,0.13,Generic,Chewable/dispersible tablet,Tanzania,100mg,"Didanosine 100mg, chewable/dispersible tablets, 60 Tabs",454,SO-36590,19923.35
+128620,4.26,0.14,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",10643,SCMS-123590,556117.5299999999
+9253,5.94,0.1,Generic,Tablet,Zimbabwe,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",1065,SCMS-239180,66388.16
+192,15.5,0.26,Generic,Chewable/dispersible tablet,Haiti,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",40,SO-34710,14999.11
+91970,2.51,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",5357,SO-37810,239107.58000000002
+131520,4.81,0.16,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",2277,SO-44350,645393.74
+7140,16.73,0.56,Generic,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",779,SO-41151,124265.8
+40070,8.11,0.14,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",28111,SO-47460,343750.29000000004
+21360,3.9,0.06,Generic,Tablet - FDC,Côte d'Ivoire,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",1567,SO-16200,105289.23
+346,144.0,0.86,Norvir,Capsule,Dominican Republic,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 2 x 84 Caps",268,SCMS-83590,50598.08
+95597,4.64,0.15,Generic,Tablet - FDC,Nigeria,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",10656,SO-50880,465018.74
+1184,18.9,0.16,Aluvia,Tablet,Guyana,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",251,SO-50040,25651.289999999997
+17520,9.81,0.16,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",9370,SO-42841,175968.1
+41258,4.62,0.15,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4964,SO-50054,196962.43
+1000,13.0,0.43,Generic,Delayed-release capsules,Dominican Republic,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",68,SCMS-92940,14029.150000000001
+1,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",985,SCMS-149610,11123.130000000001
+60756,10.54,0.35,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",5481,SO-38610,654025.9199999999
+48,20.0,0.67,Generic,Delayed-release capsules,Haiti,400mg,"Didanosine 400mg, delayed-release capsules, 30 Caps",4,SCMS-147150,1932.1399999999999
+14164,9.3,0.1,Generic,Tablet,Zimbabwe,200mg,"Efavirenz 200mg, scored tablets, 90 Tabs",884,SCMS-245070,140141.34000000003
+11605,2.15,0.04,Generic,Tablet - FDC,Nigeria,30/60mg,"Lamivudine/Zidovudine 30/60mg, tablets, 60 Tabs",935,SO-46530,74181.36
+2769,77.7,0.78,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",628,SCMS-103140,223086.38999999998
+10150,22.5,0.75,Generic,Tablet,Nigeria,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",1360,SCMS-141660,236360.56
+1500,1.4,0.01,Generic,Oral solution,Haiti,1mg/ml,"Stavudine 1mg/ml, powder for oral solution, 200 ml",235,SO-12140,5126.1
+572,2.24,0.07,Generic,Capsule,Haiti,50mg,"Efavirenz 50mg, capsule, 30 Caps",33,SO-35190,2346.99
+92500,4.71,0.16,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",7778,SCMS-103710,457078.58999999997
+175,24.5,24.5,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",1,SCMS-133390,5731.13
+9335,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3788,SCMS-210350,892878.62
+367,9.5,0.16,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",447,SO-1570,5722.08
+11730,1.43,0.01,Generic,Oral solution,Ghana,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",4673,SCMS-245400,39003.89
+500,91.0,1.82,Genie,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Genie III Kit, 50 Tests",284,SCMS-162870,78173.23
+5000,5.74,0.19,Generic,Tablet - FDC,Tanzania,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",449,SCMS-231060,31594.72
+4000,28.0,0.47,Generic,Tablet - FDC,Côte d'Ivoire,300/150/300mg,"Abacavir/Lamivudine/Zidovudine 300/150/300mg, tablets, 60 Tabs",655,SCMS-123870,117485.04000000001
+8000,2.44,0.04,Generic,Tablet,Ethiopia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",425,SO-35240,22540.59
+10000,9.98,0.17,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",7416,SCMS-268,164069.95500000002
+18000,20.0,0.67,Generic,Tablet,Rwanda,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",2402,SCMS-239010,362202.62
+768,5.69,0.19,Generic,Tablet,Rwanda,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",55,SCMS-129750,4769.34
+2000,1.9,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",688,SO-33470,5018.93
+3393,21.8,0.18,Generic,Tablet,Ghana,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",915,SCMS-234050,80049.80999999998
+2316,8.55,0.14,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",386,SO-37990,22129.319999999996
+34080,4.75,0.16,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3318,SO-34650,186119.84000000003
+300,32.0,1.6,Uni-Gold,Test kit,Namibia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",172,SO-884,10304.2
+504,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",204,SCMS-235430,43149.52
+6100,12.96,0.22,Generic,Tablet,Nigeria,300mg,"Abacavir 300mg, tablets, 60 Tabs",681,SO-42801,95699.34
+5681,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2307,SCMS-270771,532499.0499999999
+1130,79.99,0.8,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",258,SCMS-21580,94281.56
+63967,4.53,0.15,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5491,SCMS-83820,305726.75
+400,7.0,0.12,Videx,Chewable/dispersible tablet,Vietnam,25mg,"Didanosine 25mg [Videx], chewable tablets, 60 Tabs",81,SCMS-20310,5015.530000000001
+21000,12.01,0.4,Generic,Tablet,Namibia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1815,SO-1764,258688.16
+4500,71.99,0.72,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",1053,SCMS-27790,335652.0
+15117,8.26,0.14,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",8057,SO-43910,135755.01
+1249,27.6,0.92,Stat-Pak,Test kit,Burundi,300mg,"HIV 1/2, Stat-Pak Dipstick Assay Kit, 30 Tests",145,SCMS-199580,36197.19
+229,75.0,3.0,Clearview,Test kit,Namibia,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",140,SO-1970,18489.18
+121307,2.2,0.04,Generic,Tablet,Cameroon,200mg,"Nevirapine 200mg, tablets, 60 Tabs",7912,SCMS-204350,329307.59
+100000,2.66,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6206,SO-37331,279984.82
+1019,70.0,1.17,Trizivir,Tablet - FDC,Mozambique,300/150/300mg,"Abacavir/Lamivudine/Zidovudine 300/150/300mg [Trizivir], tablets, 60 Tabs",138,SO-379,71859.705
+34997,5.36,0.18,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",10698,SO-42710,208841.76
+2340,22.5,0.75,Generic,Tablet - FDC,Côte d'Ivoire,600/300mg,"Abacavir/Lamivudine 600/300mg, scored tablets, 30 Tabs",263,SO-41470,55054.03
+2710,19.36,0.16,Generic,Tablet,"Congo, DRC",200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",731,SO-51270,61569.09
+12710,3.21,0.11,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",9511,SO-47080,51058.06
+400,38.36,0.11,Norvir,Capsule,Côte d'Ivoire,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",175,SCMS-42230,23017.04
+1135,26.09,0.43,Generic,Capsule,Tanzania,150mg,"Atazanavir 150mg, capsules, 60 Caps",103,SCMS-94240,30969.410000000003
+30,8.38,0.03,Generic,Oral solution,Guyana,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",11,SO-46801,1123.46
+188,4.75,0.16,Generic,Tablet,Nigeria,600mg,"Efavirenz 600mg, tablets, 30 Tabs",17,SO-34915,10631.03
+6678,19.92,0.66,Generic,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",2244,SO-40750,136541.59
+252,78.64,0.29,Invirase,Capsule,Côte d'Ivoire,200mg,"Saquinavir 200mg [Invirase], capsules, 270 Caps",1736,SO-972,34031.53
+2000,21.0,0.7,First Response,Test kit,Rwanda,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",600,SCMS-288,47804.845
+25281,11.4,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2847,SO-33338,298109.77
+2700,3.81,0.13,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",234,SO-43180,12455.52
+28000,24.5,24.5,Colloidal Gold,Test kit,Rwanda,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",18667,SCMS-198220,976501.78
+3428,19.92,0.66,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",396,SO-38172,69445.59999999999
+4500,32.0,1.6,Uni-Gold,Test kit,Rwanda,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2300,SCMS-14140,182655.69
+28663,2.6,0.04,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3380,SCMS-76980,92288.05
+188,237.45,1.98,Invirase,Tablet,Guatemala,500mg,"Saquinavir 500mg [Invirase], tablets, 120 Tabs",33,SCMS-96140,45373.950000000004
+300000,7.72,0.13,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",39688,SO-50130,2347003.35
+12700,11.15,0.19,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1572,SCMS-57130,155361.8
+27975,4.52,0.15,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1704,SO-38214,143536.8
+450,89.0,0.89,Determine,Test kit,South Sudan,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",188,SCMS-200910,43097.39
+5362,30.82,0.1,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",5060,SCMS-261410,210379.33000000002
+35600,7.4,0.12,Generic,Tablet - FDC,Côte d'Ivoire,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",3731,SO-1284,270640.41
+1800,24.0,0.8,Bioline,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Bioline 3.0 Kit, (no accessories), 30 Tests",560,SCMS-48610,48465.009999999995
+139,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",192,SO-20950,17194.25
+9243,25.45,0.42,Generic,Tablet,Tanzania,300mg,"Abacavir 300mg, tablets, 60 Tabs",936,SO-31281,237929.02
+7318,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2556,SCMS-115320,681716.28
+115,5.0,5.0,Determine,Test kit - Ancillary,South Sudan,300mg,"Chase Buffer, Determine, 100 Tests, 2.5ml x 1 Vial",115,SCMS-176931,3235.76
+9565,1.95,0.01,Generic,Oral solution,Rwanda,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",6490,SCMS-129510,21688.79
+424,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",145,SCMS-81030,16169.93
+1440,7.3,0.24,Generic,Tablet,Ethiopia,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",88,SO-38100,12377.61
+4400,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",527,SO-34980,54024.39
+100000,6.38,0.21,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",8850,SO-43042,668674.98
+7238,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1246,SCMS-119190,658581.54
+96800,2.31,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",11808,SO-44475,241534.75
+6280,80.0,0.8,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2548,SCMS-256500,531625.99
+23787,2.66,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1378,SO-37580,65969.72
+59,6.59,0.11,Generic,Tablet - FDC,Cameroon,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",23,SCMS-204360,1456.31
+10000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3110,SCMS-10350,222983.18
+8000,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1642,SO-36070,105300.56
+40000,2.44,0.04,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3771,SO-42470,128766.83
+40230,13.27,0.44,Generic,Tablet - FDC,Côte d'Ivoire,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",4525,SO-42401,546475.4099999999
+39449,8.1,0.13,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",5714,SCMS-198541,340348.20000000007
+1400,16.5,0.55,First Response,Test kit,Rwanda,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",405,SCMS-13020,26753.91
+1436,71.99,0.72,Determine,Test kit,Benin,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",327,SCMS-17280,110230.54999999999
+30,99.4,1.99,Genie,Test kit,Uganda,300mg,"HIV 1/2, Genie III Kit, 50 Tests",19,SCMS-237170,3831.1000000000004
+23819,2.26,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1447,SO-46881,62740.52
+150000,2.87,0.05,Generic,Tablet,South Africa,200mg,"Nevirapine 200mg, tablets, 60 Tabs",9306,SCMS-103970,441721.65
+3600,1.8,0.03,Generic,Tablet,Haiti,150mg,"Lamivudine 150mg, tablets, 60 Tabs",216,SCMS-263030,9099.45
+87744,4.22,0.14,Generic,Tablet,Nigeria,600mg,"Efavirenz 600mg, tablets, 30 Tabs",7194,SO-39170,383491.71
+12040,3.2,0.05,Generic,Tablet,Mozambique,200mg,"Nevirapine 200mg, tablets, 60 Tabs",677,SO-13990,40112.56
+74930,8.11,0.14,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",9100,SO-47704,614814.33
+40000,4.6,0.15,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4620,SCMS-198541,202778.53999999998
+158000,2.2,0.04,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",9832,SCMS-234760,416307.85000000003
+4300,71.99,0.72,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",979,SCMS-18240,318742.55
+81198,2.0,0.07,Generic,Tablet - FDC,Zambia,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",4678,SO-2545,193266.03
+8215,13.49,0.45,Generic,Tablet - FDC,Uganda,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",805,SCMS-203960,111960.61
+12000,3.09,0.05,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",708,SCMS-48851,41043.88
+8,70.0,0.7,Determine,Test kit,Botswana,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",5406,SCMS-27760,1120.85
+208501,11.22,0.19,Generic,Tablet - FDC,Mozambique,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",28237,SO-35980,2358588.06
+36,206.51,0.61,Norvir,Capsule,Vietnam,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",111,SCMS-98170,14747.310000000001
+168,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",73,SCMS-235450,15260.63
+2848,1.95,0.01,Generic,Oral suspension,Haiti,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",1066,SO-38210,16357.6
+16,2.58,0.04,Generic,Tablet,"Congo, DRC",200mg,"Nevirapine 200mg, tablets, 60 Tabs",42,SO-41132,497.52
+25312,8.55,0.14,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",4988,SO-38633,224735.43
+374,2.44,0.04,Generic,Tablet,Mozambique,150mg,"Lamivudine 150mg, tablets, 60 Tabs",18,SO-26423,2714.23
+4245,9.5,0.16,Videx,Chewable/dispersible tablet,Côte d'Ivoire,50mg,"Didanosine 50mg [Videx], chewable tablets, 60 Tabs",833,SCMS-59690,41548.95
+96770,2.72,0.05,Generic,Tablet,South Africa,200mg,"Nevirapine 200mg, tablets, 60 Tabs",10536,SCMS-104100,268606.51
+1560,9.5,0.16,Generic,Tablet - FDC,Zimbabwe,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",90,SO-898,15949.71
+8640,15.04,0.5,Generic,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",972,SO-41480,134882.31
+66700,6.07,0.2,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",12046,SO-43047,442679.13
+14055,2.25,0.04,Generic,Tablet,Vietnam,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1304,SCMS-161060,33888.95
+24480,2.4,0.04,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",3536,SCMS-57130,79777.58
+154,95.0,3.8,Clearview,Test kit,Mali,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",87,SCMS-221932,17090.72
+6966,2.4,0.04,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1068,SCMS-31720,20645.38
+15331,4.45,0.15,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4729,SO-37300,86760.45999999999
+977,78.64,0.29,Invirase,Capsule,Côte d'Ivoire,200mg,"Saquinavir 200mg [Invirase], capsules, 270 Caps",490,SO-1547,78719.60999999999
+3115,8.15,0.14,Generic,Tablet,Haiti,300mg,"Zidovudine 300mg, tablets, 60 Tabs",178,SO-2069,28026.87
+79,80.0,0.8,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",27,SO-788,6616.87
+7445,2.24,0.04,Generic,Chewable/dispersible tablet - FDC,Uganda,30/60mg,"Lamivudine/Zidovudine 30/60mg, dispersible tablets, 60 Tabs",574,SCMS-212350,20562.18
+31680,4.67,0.16,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2970,SCMS-68940,152527.65
+50,23.4,0.78,First Response,Test kit,Kenya,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",18,SCMS-134420,3816.4300000000003
+189,55.5,0.92,Isentress,Tablet,Uganda,400mg,"Raltegravir 400mg [Isentress], tablets, 60 Tabs",19,SCMS-142240,11214.21
+2100,71.99,0.72,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",498,SO-783,153713.49000000002
+679,32.5,1.62,Stat-Pak,Test kit,Ethiopia,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",195,SCMS-244850,24301.23
+1903,32.0,1.6,Uni-Gold,Test kit,Uganda,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",566,SCMS-253230,64562.53
+22925,4.8,0.08,Generic,Tablet - FDC,Vietnam,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",3723,SCMS-105540,129277.70000000001
+1520,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",385,SCMS-20410,129537.23000000001
+50549,10.25,0.17,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",4680,SO-211,537506.695
+129,89.0,0.89,Determine,Test kit,Sudan,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",60,SCMS-120441,12633.11
+26940,4.7,0.16,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",2517,SO-43880,138577.76
+15826,18.9,0.16,Aluvia,Tablet,Nigeria,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",3814,SO-44754,329156.32
+2516,4.6,0.08,Generic,Tablet - FDC,Haiti,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",118,SCMS-164450,13032.66
+21678,2.33,0.04,Generic,Tablet,Zambia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1084,SO-38910,55089.71
+520,5.94,0.1,Generic,Tablet,Haiti,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",65,SCMS-240120,3984.48
+7243,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1247,SCMS-80820,659782.63
+20000,33.7,0.28,Aluvia,Tablet,Tanzania,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",4727,SCMS-111640,696696.12
+149824,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",13037,SO-27816,3948034.2399999998
+23358,17.14,0.29,Generic,Tablet,Tanzania,300mg,"Abacavir 300mg, tablets, 60 Tabs",2344,SO-36030,410528.81
+18880,10.5,0.35,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2452,SCMS-251680,202135.01
+539,27.6,0.92,Stat-Pak,Test kit,Burundi,300mg,"HIV 1/2, Stat-Pak Dipstick Assay Kit, 30 Tests",58,SCMS-234680,15762.970000000001
+5000,6.5,0.11,Generic,Tablet,Cameroon,300mg,"Zidovudine 300mg, tablets, 60 Tabs",294,SCMS-204330,36879.840000000004
+9367,7.75,0.13,Generic,Chewable/dispersible tablet,Tanzania,100mg,"Didanosine 100mg, chewable/dispersible tablets, 60 Tabs",1955,SO-1651,79633.7
+89490,10.87,0.36,Generic,Tablet - FDC,Nigeria,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",11280,SO-45664,1004895.7000000001
+4460,2.9,0.05,Generic,Tablet,Ethiopia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",250,SO-34581,14328.109999999999
+50000,7.2,0.12,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",3679,SO-2730,365590.65
+9794,1.95,0.01,Generic,Oral suspension,Uganda,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",3654,SO-38870,38650.58
+1040,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",251,SCMS-23350,88144.67
+270,13.96,0.47,Generic,Tablet - FDC,Zimbabwe,600/300mg,"Abacavir/Lamivudine 600/300mg, scored tablets, 30 Tabs",18,SO-43240,4874.48
+16245,8.1,0.13,Generic,Tablet - FDC,Tanzania,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2368,SCMS-198771,143110.34
+3678,29.0,1.45,Stat-Pak,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",1056,SCMS-147560,119174.89
+29504,1.95,0.01,Generic,Oral suspension,Tanzania,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",10913,SO-40471,61481.62
+130,80.0,0.8,Determine,Test kit,Swaziland,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",60,SCMS-135100,11774.72
+4995,32.0,1.6,Uni-Gold,Test kit,Kenya,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",4995,SCMS-42970,160428.29
+63652,3.19,0.11,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3914,SCMS-198700,211070.46000000002
+39,80.0,0.8,Determine,Test kit,Swaziland,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",17,SCMS-256310,3637.73
+40,40.0,2.0,Uni-Gold,Test kit,Nigeria,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",14,SCMS-228,2404.1150000000002
+500,20.0,0.8,Bioline,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",136,SCMS-42600,12113.68
+8800,5.94,0.1,Generic,Tablet,Cameroon,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",1485,SCMS-289290,62667.75
+98,15.5,0.26,Generic,Chewable/dispersible tablet,Haiti,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",77,SO-2047,2512.92
+30,20.0,0.8,Bioline,Test kit,Sudan,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",430,SCMS-107760,5101.7
+17447,4.62,0.15,Generic,Tablet - FDC,Ghana,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1825,SCMS-234100,91478.63
+1966,2.25,0.04,Generic,Tablet - FDC,Vietnam,30/60mg,"Lamivudine/Zidovudine 30/60mg, tablets, 60 Tabs",91,SCMS-156272,5572.74
+360,2.24,0.07,Generic,Capsule,Angola,50mg,"Efavirenz 50mg, capsule, 30 Caps",21,SCMS-171790,1647.57
+8298,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1427,SCMS-124900,755831.15
+4000,15.26,0.17,Generic,Capsule,Zambia,200mg,"Efavirenz 200mg, capsule, 90 Caps",481,SO-31900,64110.76
+2390,23.75,0.2,Aluvia,Tablet,Zimbabwe,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",533,SO-44600,62456.240000000005
+3500,1.9,0.01,Generic,Oral solution,Côte d'Ivoire,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",1208,SO-27550,10992.04
+35300,8.76,0.15,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3190,SO-32972,321471.73000000004
+514,27.6,0.92,Stat-Pak,Test kit,Burundi,300mg,"HIV 1/2, Stat-Pak Dipstick Assay Kit, 30 Tests",55,SCMS-176890,14962.599999999999
+23814,16.26,0.54,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2102,SO-456,393669.19
+800,20.0,0.67,Generic,Delayed-release capsules,Mozambique,400mg,"Didanosine 400mg, delayed-release capsules, 30 Caps",62,SCMS-215590,17061.95
+18600,1.85,0.03,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",2175,SCMS-226260,38800.170000000006
+24765,8.11,0.14,Generic,Tablet - FDC,Côte d'Ivoire,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",2751,SO-47152,212489.55
+1902,20.0,0.67,Generic,Capsule,Dominican Republic,300mg,"Atazanavir 300mg, capsules, 30 Caps",170,SCMS-202650,40052.68
+35000,12.42,0.41,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2153,SO-1484,459843.52
+6200,11.49,0.38,Generic,Tablet - FDC,Malawi,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",701,SCMS-163880,74874.93
+750,32.0,1.6,Uni-Gold,Test kit,Namibia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",248,SCMS-117200,30693.839999999997
+20000,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",1741,SO-11231,536505.71
+22232,10.15,0.34,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2510,SCMS-263650,230249.83
+1500,8.26,0.14,Generic,Tablet - FDC,"Congo, DRC",150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",147,SO-41230,13589.62
+2410,11.72,0.39,Generic,Tablet,Côte d'Ivoire,600mg,"Efavirenz 600mg, tablets, 30 Tabs",182,SO-11851,29709.82
+10,32.0,1.6,Uni-Gold,Test kit,Pakistan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",3,SO-2497,721.26
+176213,12.96,0.43,Generic,Tablet - FDC,Zambia,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",19962,SO-43830,2317946.52
+150,77.7,0.78,Determine,Test kit,Namibia,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",36,SCMS-117210,12533.41
+9500,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2783,SCMS-238950,324933.61
+2240,6.57,0.22,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",6542,SO-37720,33360.46
+7,75.0,3.0,Clearview,Test kit,Namibia,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",5,SCMS-45420,613.76
+1362,24.5,24.5,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",970,SCMS-133590,43134.63
+5994,24.5,24.5,Colloidal Gold,Test kit,Rwanda,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",3996,SCMS-232310,200066.16999999998
+60,30.82,0.1,Kaletra,Oral solution,"Congo, DRC",80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",103,SCMS-189060,3424.9
+20,26.35,0.03,Generic,Tablet - FDC,Nigeria,500/25mg,"Sulfadoxine/Pyrimethamine 500/25mg, tablets, 1000 Tabs",1920,SCMS-24590,20662.27
+1800,80.0,0.8,Determine,Test kit,Angola,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",865,SCMS-91630,158100.56
+361,6.42,0.21,Generic,Tablet,Nigeria,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",40,SO-40727,17644.17
+110,36.16,0.3,Aluvia,Tablet,Uganda,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",33,SCMS-55240,4980.62
+232,20.0,0.8,Bioline,Test kit,Benin,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",70,SCMS-17290,5783.79
+3068,2.6,0.04,Generic,Tablet - FDC,Mozambique,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",150,SO-48882,8103.16
+70,75.0,3.0,Clearview,Test kit,Namibia,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",43,SO-1451,6800.549999999999
+298,2.3,0.04,Generic,Chewable/dispersible tablet - FDC,Haiti,30/50/6mg,"Lamivudine/Nevirapine/Stavudine 30/50/6mg, dispersible tablets, 60 Tabs",21,SCMS-138620,990.98
+3000,3.4,0.06,Generic,Tablet,Mozambique,200mg,"Nevirapine 200mg, tablets, 60 Tabs",168,SO-2217,11291.27
+614,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",295,SCMS-155320,62166.74
+110000,2.58,0.04,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",12543,SO-37180,286391.62
+15,90.91,1.82,Genie,Test kit,Uganda,300mg,"HIV 1/2, Genie III Kit, 50 Tests",8,SCMS-198550,2220.75
+1100,11.4,0.19,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",159,SCMS-27310,15133.18
+6040,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2052,SCMS-18030,218278.25
+34374,2.15,0.04,Generic,Chewable/dispersible tablet - FDC,Tanzania,30/60mg,"Lamivudine/Zidovudine 30/60mg, dispersible tablets, 60 Tabs",2346,SO-47655,75442.88
+36000,2.44,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",2026,SO-42620,98059.04999999999
+18732,2.24,0.07,Generic,Capsule,Tanzania,50mg,"Efavirenz 50mg, capsule, 30 Caps",1090,SO-40500,43727.740000000005
+1200,30.0,0.5,Generic,Tablet - FDC,Côte d'Ivoire,300/150/300mg,"Abacavir/Lamivudine/Zidovudine 300/150/300mg, tablets, 60 Tabs",464,SO-41182,38444.74
+57364,2.25,0.04,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",5468,SCMS-152910,177751.45
+240,71.99,0.72,Determine,Test kit,Guyana,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",55,SCMS-18480,18748.159999999996
+1481,2.15,0.04,Generic,Tablet,Côte d'Ivoire,150mg,"Lamivudine 150mg, tablets, 60 Tabs",141,SO-46380,4588.09
+2400,13.49,0.45,Generic,Tablet - FDC,Côte d'Ivoire,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",213,SO-48750,33831.82
+39636,8.55,0.14,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3666,SO-38660,342971.99999999994
+7031,60.82,0.51,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1720,SCMS-210040,433478.47
+629,13.15,0.22,Generic,Tablet,Rwanda,300mg,"Abacavir 300mg, tablets, 60 Tabs",67,SO-42111,9901.07
+3,75.0,3.0,Clearview,Test kit,Namibia,300mg,"HIV 1/2, Clearview Complete Kit, 25 Tests",3,SCMS-33850,1188.78
+71377,6.6,0.11,Generic,Tablet - FDC,Mozambique,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",6842,SO-48886,480261.7
+4319,2.73,0.05,Generic,Tablet,Côte d'Ivoire,200mg,"Nevirapine 200mg, tablets, 60 Tabs",409,SO-35800,12897.28
+769,10.07,0.11,Generic,Capsule,Côte d'Ivoire,200mg,"Efavirenz 200mg, capsule, 90 Caps",93,SO-34414,12278.970000000001
+10000,3.12,0.1,Generic,Tablet,Côte d'Ivoire,600mg,"Efavirenz 600mg, tablets, 30 Tabs",24636,SO-49052,77413.23999999999
+1043,4.76,0.05,Generic,Capsule,Guyana,100mg,"Zidovudine 100mg, capsules, 100 Caps",332,SO-39720,9371.189999999999
+4560,13.67,0.46,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",561,SCMS-137520,68032.76
+5655,80.0,0.8,Determine,Test kit,Uganda,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2290,SCMS-264750,471356.37999999995
+7600,2.08,0.03,Generic,Tablet,Vietnam,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1292,SCMS-236070,18625.2
+3401,29.0,1.45,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",972,SCMS-155310,105185.39
+240,1.3,0.04,Generic,Chewable/dispersible tablet,"Congo, DRC",50mg,"Nevirapine 50mg, dispersible tablets (tablets for oral suspension), 30 Tabs",30,SCMS-241110,1990.8899999999999
+8000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",2667,SCMS-114980,178037.94
+13660,3.6,0.06,Generic,Chewable/dispersible tablet - FDC,Nigeria,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",849,SO-49937,51097.89
+19290,7.2,0.12,Generic,Tablet - FDC,Côte d'Ivoire,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",2096,SO-16190,158655.95
+112000,2.51,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6449,SO-39410,289688.35000000003
+40,41.1,0.14,Kaletra,Oral solution,Mozambique,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",52,SO-26390,2934.99
+4162,24.5,24.5,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",2777,SCMS-190800,136232.16999999998
+44,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",14,SCMS-173100,2511.65
+5100,80.0,0.8,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2440,SCMS-51090,452492.14
+17760,10.0,0.33,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2523,SCMS-274390,182570.94
+7000,2.43,0.04,Generic,Tablet,Vietnam,200mg,"Nevirapine 200mg, tablets, 60 Tabs",512,SCMS-105500,23053.25
+25836,2.15,0.04,Generic,Tablet - FDC,Tanzania,30/60mg,"Lamivudine/Zidovudine 30/60mg, tablets, 60 Tabs",5467,SO-44984,59183.31
+336,32.0,1.6,Uni-Gold,Test kit,Tanzania,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",101,SCMS-235370,12191.18
+10131,2.33,0.04,Generic,Tablet,Zambia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",493,SO-38200,26503.34
+6993,6.57,0.22,Generic,Tablet,Ethiopia,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",629,SO-38580,50296.86
+6349,3.4,0.06,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",355,SCMS-160,24858.335
+25932,5.43,0.09,Generic,Tablet,Nigeria,300mg,"Zidovudine 300mg, tablets, 60 Tabs",1548,SCMS-212690,152618.67
+662,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",62,SO-21783,23855.170000000002
+11,14.63,0.24,Generic,Tablet,"Congo, DRC",300mg,"Abacavir 300mg, tablets, 60 Tabs",28,SO-41130,617.33
+2360,32.0,1.6,Uni-Gold,Test kit,Mozambique,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",1636,SCMS-62690,96770.52
+7840,9.1,0.15,Generic,Tablet - FDC,Rwanda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",719,SCMS-30312,72337.71
+9275,1.45,0.02,Generic,Capsule,Vietnam,30mg,"Stavudine 30mg, capsules, 60 Caps",432,SCMS-23460,20914.620000000003
+19913,13.49,0.45,Generic,Tablet - FDC,Zimbabwe,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",1828,SO-48490,270857.69
+49997,12.42,0.41,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4345,SO-1942,636593.28
+6705,16.96,0.09,Stocrin/Sustiva,Oral solution,Haiti,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",1979,SCMS-138550,114729.3
+2744,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1186,SCMS-162440,269485.58
+6502,0.01,0.0,Generic,Test kit - Ancillary,Nigeria,300mg,"HIV, Lancet, Safety, for HIV Test kits, 100 Pcs",1927,SCMS-27060,24935.17
+4913,24.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, (no accessories), 30 Tests",1639,SCMS-52776,120420.11
+270,20.0,0.8,Bioline,Test kit,Kenya,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",97,SO-1389,5506.72
+1500,30.82,0.1,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",1374,SCMS-148300,68025.3
+415,76.0,1.9,Genie,Test kit,Côte d'Ivoire,300mg,"#108853** HIV, Genie II HIV-1/HIV-2 Kit, 40 Tests",453,SO-794,33197.39
+32510,11.75,0.39,Generic,Tablet,Rwanda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2791,SCMS-14730,410939.87
+22500,2.35,0.04,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",2145,SCMS-149420,70807.81
+6750,4.62,0.15,Generic,Tablet - FDC,Côte d'Ivoire,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",4426,SO-50102,45956.62
+64771,7.82,0.26,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",4398,SCMS-68740,512899.28
+140554,11.75,0.39,Generic,Tablet - FDC,Zambia,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",16961,SO-36841,1672051.2999999998
+19705,2.58,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1095,SO-40940,55328.02
+47150,2.73,0.05,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",5357,SO-36468,135144.2
+537,2.0,0.07,Generic,Tablet - FDC,Zimbabwe,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",143,SO-1074,3174.7200000000003
+405,11.23,0.19,Generic,Tablet,Mozambique,300mg,"Abacavir 300mg, tablets, 60 Tabs",39,SO-48180,8143.78
+249965,12.96,0.43,Generic,Tablet - FDC,Zambia,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",28182,SO-44770,3261738.3899999997
+3286,2.15,0.01,Generic,Oral solution,Ethiopia,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",1215,SO-1531,15662.2
+44131,11.22,0.19,Generic,Tablet - FDC,Rwanda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",5364,SO-36581,577887.9299999999
+14011,1.85,0.03,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1953,SCMS-210120,29610.489999999998
+800,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",208,SCMS-20420,69314.62
+1025,38.36,0.11,Norvir,Capsule,Côte d'Ivoire,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",1436,SO-631,45293.41
+7018,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2305,SCMS-133470,649906.24
+100156,2.44,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",10687,SO-41250,266070.38
+326131,11.0,0.18,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",46522,SO-41252,3619911.81
+5,350.0,3.5,OraQuick,Test kit,Botswana,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",12,SCMS-38050,2564.28
+35,32.0,1.6,Uni-Gold,Test kit,South Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",191,SCMS-272140,3917.8999999999996
+720,19.92,0.66,Generic,Tablet - FDC,Uganda,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",79,SO-38790,16671.71
+240,41.1,0.34,Aluvia,Tablet,Haiti,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",52,SO-2596,11302.1
+672,3.67,0.06,Generic,Chewable/dispersible tablet - FDC,Rwanda,60/12mg,"Lamivudine/Stavudine 60/12mg, dispersible tablets, 60 Tabs",49,SCMS-129530,2691.66
+11168,6.2,0.03,Generic,Oral suspension,Ethiopia,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",4583,SO-1009,83906.89
+80000,2.26,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6502,SO-45092,194323.66
+100,7.58,0.25,Generic,Delayed-release capsules,"Congo, DRC",250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",9,SCMS-234230,1493.44
+2114,80.0,0.8,Determine,Test kit,Burundi,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",822,SCMS-235540,190642.37
+610,30.82,0.1,Kaletra,Oral solution,Haiti,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",708,SCMS-261140,22247.9
+2825,27.0,1.35,Stat-Pak,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",1038,SCMS-80620,79800.2
+8922,16.73,0.56,Generic,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",973,SO-40751,153978.34
+26962,4.12,0.14,Generic,Tablet,Rwanda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1638,SO-41810,129686.1
+74288,7.78,0.13,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",7351,SO-42640,600118.06
+120,38.36,0.11,Norvir,Capsule,Rwanda,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",298,SCMS-63640,6817.2
+345,27.6,0.92,Stat-Pak,Test kit,Burundi,300mg,"HIV 1/2, Stat-Pak Dipstick Assay Kit, 30 Tests",37,SCMS-223460,10478.560000000001
+116000,7.03,0.23,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",7965,SCMS-84220,830926.2000000001
+2500,80.0,0.8,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",851,SCMS-587,205560.445
+1692,16.0,0.18,Stocrin/Sustiva,Capsule,Ethiopia,200mg,"Efavirenz 200mg [Stocrin/Sustiva], capsule, 90 Caps",182,SO-1525,28837.32
+21158,7.27,0.12,Generic,Tablet - FDC,Côte d'Ivoire,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3653,SO-44201,169623.82
+10000,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",878,SO-15050,267415.9
+150000,6.86,0.23,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",10156,SCMS-93590,1044429.45
+217,36.0,0.3,Intelence,Tablet,Uganda,100mg,"Etravirine 100mg [Intelence], tablets, 120 Tabs",74,SCMS-192190,8116.5199999999995
+46163,9.45,0.16,Generic,Tablet - FDC,Tanzania,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",4237,SO-2562,440420.92
+32,25.0,0.25,Generic,Injection,Afghanistan,600mg/2ml,"Quinine 600mg/2ml (as dihydrochloride), injection, 2ml x 100 Ampules",68,SCMS-275090,1356.43
+6384,7.3,0.12,Generic,Tablet,South Africa,300mg,"Zidovudine 300mg, tablets, 60 Tabs",331,SCMS-103380,52446.93
+574,2.1,0.01,Generic,Oral solution,Burundi,10mg/ml,"Zidovudine 10mg/ml, oral solution w/syringe, Bottle, 240 ml",422,SO-44640,6591.85
+6392,4.34,0.14,Generic,Tablet,Zimbabwe,600mg,"Efavirenz 600mg, tablets, 30 Tabs",571,SO-37860,32229.15
+40751,2.92,0.05,Generic,Tablet,South Africa,200mg,"Nevirapine 200mg, tablets, 60 Tabs",4806,SCMS-68950,125619.26
+8257,8.04,0.27,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",814,SO-41258,83569.35
+2389,19.92,0.66,Generic,Tablet - FDC,Nigeria,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",277,SO-38920,66163.29999999999
+25000,2.6,0.04,Generic,Tablet,Vietnam,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3098,SCMS-108100,77852.31
+5670,12.42,0.41,Generic,Tablet,Guyana,600mg,"Efavirenz 600mg, tablets, 30 Tabs",441,SO-1239,76675.31999999999
+36,50.0,0.28,Crixivan,Capsule,Uganda,400mg,"Indinavir 400mg [Crixivan], capsules, 180 Caps",9,SCMS-111210,2088.9700000000003
+24000,8.76,0.15,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",5748,SO-32950,249609.58000000002
+137130,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",45800,SCMS-93570,923145.6900000001
+3250,1.43,0.02,Generic,Capsule,Nigeria,20mg,"Stavudine 20mg, capsules, 60 Caps",216,SO-35130,14393.62
+63,66.6,0.55,Prezista,Tablet,Uganda,300mg,"Darunavir 300mg [Prezista], tablets, 120 Tabs",57,SCMS-143490,4749.88
+207,1.32,0.02,Generic,Capsule,Côte d'Ivoire,15mg,"Stavudine 15mg, capsules, 60 Caps",12,SO-39880,2777.03
+8442,80.0,0.8,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1454,SCMS-58382,690159.3099999999
+6000,11.75,0.39,Generic,Tablet - FDC,Uganda,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",493,SO-36050,78531.03
+5856,4.82,0.16,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",354,SO-42960,31292.109999999997
+1500,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",580,SO-232,53055.775
+75,3.4,0.06,Generic,Tablet - FDC,Uganda,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",10,SO-36100,2121.41
+4000,2.1,0.01,Generic,Oral solution,Haiti,10mg/ml,"Zidovudine 10mg/ml, oral solution w/syringe, Bottle, 240 ml",1596,SO-43020,25252.449999999997
+260,89.0,0.89,Determine,Test kit,Sudan,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",119,SCMS-83990,25932.72
+2520,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1201,SCMS-108740,253319.29
+62671,2.64,0.04,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",3666,SCMS-84440,180698.78
+3510,23.0,23.0,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",2535,SCMS-32630,100971.97
+1680,20.0,0.67,Generic,Delayed-release capsules,Rwanda,400mg,"Didanosine 400mg, delayed-release capsules, 30 Caps",131,SCMS-162520,35651.55
+790,6.52,0.11,Generic,Tablet - FDC,Burundi,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",186,SO-46023,5186.38
+10080,11.48,0.38,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",772,SCMS-20360,120311.83999999998
+60000,11.0,0.37,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5144,SO-17610,675146.89
+9960,2.06,0.01,Generic,Oral solution,South Africa,10mg/ml,"Lamivudine 10mg/ml, oral solution, Bottle, 240 ml",3670,SCMS-103810,29572.949999999997
+156,6.57,0.22,Generic,Tablet,Nigeria,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",9,SO-39220,13627.68
+300,1.46,0.02,Generic,Capsule,Uganda,30mg,"Stavudine 30mg, capsules, 60 Caps",20,SO-34000,1106.11
+1250,32.0,1.6,Uni-Gold,Test kit,Kenya,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",393,SO-11480,40235.9
+22000,12.11,0.4,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2503,SO-42862,270914.21
+10080,2.9,0.05,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",507,SCMS-20180,33438.22
+810,13.96,0.47,Generic,Tablet - FDC,Zimbabwe,600/300mg,"Abacavir/Lamivudine 600/300mg, scored tablets, 30 Tabs",52,SO-43250,12923.45
+87071,2.58,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6291,SO-37920,245392.50999999998
+5287,3.3,0.06,Generic,Chewable/dispersible tablet - FDC,Zimbabwe,60/12mg,"Lamivudine/Stavudine 60/12mg, dispersible tablets, 60 Tabs",357,SO-38902,19486.179999999997
+16974,7.4,0.12,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",1732,SO-1077,133736.12
+1800,80.0,0.8,Determine,Test kit,Zimbabwe,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",885,SCMS-122760,162043.94
+1956,5.94,0.1,Generic,Tablet,Tanzania,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",230,SCMS-210880,13848.82
+9,11.0,0.37,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1,SO-17911,1065.56
+100000,6.52,0.11,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",8528,SO-48660,661306.22
+63652,3.19,0.11,Generic,Tablet,Uganda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3963,SCMS-198701,216262.81000000003
+37666,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",3273,SO-21782,997114.05
+6549,14.1,0.47,Generic,Tablet - FDC,Vietnam,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",1208,SCMS-123540,95799.76999999999
+40148,10.0,0.33,Generic,Tablet - FDC,Nigeria,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",3312,SO-35080,412081.69
+4500,100.0,1.0,Determine,Test kit,Haiti,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1825,SCMS-225414,465870.88999999996
+456,17.0,0.57,Viread,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",682,SO-285,10369.535
+90986,4.7,0.16,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",22001,SO-43720,449336.93
+131280,16.73,0.56,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",15032,SO-40631,2203217.57
+6597,9.5,0.16,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",617,SO-1992,65663.37
+420,30.82,0.1,Kaletra,Oral solution,Haiti,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",494,SCMS-262900,15695.66
+12,308.17,17.12,LAV,Test kit,Côte d'Ivoire,300mg,"HIV 2, New LAV Blot 2 HIV Kit, 18 Tests",39,SO-1277,4981.96
+37979,3.89,0.06,Generic,Chewable/dispersible tablet - FDC,Zambia,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",1628,SO-45070,151447.75
+4032,3.33,0.11,Generic,Tablet,Burundi,600mg,"Efavirenz 600mg, tablets, 30 Tabs",336,SO-45160,17828.61
+10,15.25,5.08,OraQuick,Test kit - Ancillary,Botswana,300mg,"#109435**HIV, OraQuick Controls Kit, 3 Vials",7,SCMS-31360,678.8499999999999
+270,27.53,0.46,Generic,Tablet,Haiti,300mg,"Abacavir 300mg, tablets, 60 Tabs",862,SO-2050,17156.190000000002
+2100,72.0,0.72,Determine,Test kit,Zambia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1016,SCMS-60710,167587.49
+25511,11.89,0.4,Generic,Tablet - FDC,Zambia,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",3041,SO-45082,307227.69
+6364,19.36,0.16,Generic,Tablet,Togo,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",1591,SO-51080,132186.12
+2613,2.1,0.01,Generic,Oral solution,Haiti,10mg/ml,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",979,SO-12162,17332.690000000002
+67271,7.0,0.12,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",6041,SO-43462,482208.64
+25000,12.01,0.4,Generic,Tablet,Nigeria,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2173,SO-2708,310637.03
+1100,24.5,24.5,Colloidal Gold,Test kit,Ethiopia,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",780,SCMS-134730,34643.77
+3690,2.66,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",214,SO-37680,15002.95
+2334,80.0,0.8,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1130,SCMS-64780,208776.63
+832,32.0,1.6,Uni-Gold,Test kit,Guyana,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",832,SCMS-18490,30406.64
+846,30.82,0.1,Kaletra,Oral solution,Zimbabwe,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",798,SCMS-149110,35409.54
+54000,4.67,0.16,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",4568,SCMS-68860,258829.49000000002
+1634,71.99,0.72,Determine,Test kit,Zimbabwe,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",373,SCMS-18870,121932.33000000002
+8000,18.0,0.6,Generic,Tablet,Haiti,300/100mg,"Atazanavir/Ritonavir 300/100mg, tablets, 30 Tabs",1023,SCMS-261012,150581.83
+57961,2.25,0.04,Generic,Tablet,Rwanda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",5525,SCMS-152910,173832.41999999998
+23861,11.22,0.19,Generic,Tablet - FDC,Swaziland,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4502,SO-40580,280476.56
+6139,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1518,SO-39500,75554.73999999999
+7541,29.68,0.25,Generic,Tablet,Rwanda,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",2003,SO-42761,256532.29
+100,15.5,0.26,Generic,Chewable/dispersible tablet,Haiti,200mg,"Didanosine 200mg, chewable/dispersible tablets, 60 Tabs",195,SO-1285,4140.38
+11142,1.55,0.03,Generic,Capsule,Nigeria,30mg,"Stavudine 30mg, capsules, 60 Caps",739,SO-23040,23619.249999999996
+52240,2.0,0.07,Generic,Tablet - FDC,Mozambique,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",4230,SO-1039,113418.51
+12315,27.0,1.35,Stat-Pak,Test kit,Nigeria,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",3508,SCMS-27050,362991.16000000003
+630,1.4,0.02,Generic,Capsule,Mozambique,30mg,"Stavudine 30mg, capsules, 60 Caps",485,SO-39340,1830.98
+17980,2.15,0.04,Generic,Chewable/dispersible tablet - FDC,Tanzania,30/60mg,"Lamivudine/Zidovudine 30/60mg, dispersible tablets, 60 Tabs",2152,SO-46690,39542.409999999996
+73690,8.58,0.14,Generic,Tablet - FDC,Tanzania,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",9886,SO-45730,677343.21
+2976,1.92,0.01,Generic,Oral suspension,Côte d'Ivoire,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",209,SO-21841,11189.09
+64500,11.15,0.37,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",7248,SO-45381,731636.5599999999
+83000,11.15,0.37,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",10998,SO-46482,1002419.2000000001
+3273,13.52,0.45,Generic,Tablet - FDC,Uganda,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",389,SO-48960,47083.06
+160,76.0,1.9,Genie,Test kit,Côte d'Ivoire,300mg,"#108853** HIV, Genie II HIV-1/HIV-2 Kit, 40 Tests",173,SO-518,14004.535
+12294,7.71,0.13,Generic,Tablet,Zambia,300mg,"Zidovudine 300mg, tablets, 60 Tabs",629,SO-31951,103254.21
+4500,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",1353,SCMS-205510,161686.07
+23450,4.32,0.14,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2068,SO-39300,105408.01
+6799,3.75,0.06,Generic,Chewable/dispersible tablet - FDC,Côte d'Ivoire,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",292,SO-46420,27200.49
+5000,7.21,0.12,Generic,Tablet,Ethiopia,300mg,"Zidovudine 300mg, tablets, 60 Tabs",196,SO-37190,37357.24
+2500,2.73,0.05,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",132,SO-36132,10501.130000000001
+6661,2.9,0.05,Generic,Tablet,Ethiopia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",778,SO-34570,24060.570000000003
+6000,4.0,0.13,Generic,Tablet - FDC,Côte d'Ivoire,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 30 Tabs",243,SO-44142,26210.01
+1575,82.2,0.68,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",382,SCMS-113690,135207.03
+6356,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",1879,SO-748,136862.13
+1984,7.58,0.25,Generic,Delayed-release capsules,Côte d'Ivoire,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",46,SCMS-237930,16954.07
+15000,2.73,0.05,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1444,SO-34890,165389.13
+22500,12.33,0.41,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",1955,SCMS-754,293964.27
+170,80.0,0.8,Determine,Test kit,Namibia,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",39,SO-1007,14163.18
+4800,19.92,0.66,Generic,Tablet - FDC,Côte d'Ivoire,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",532,SO-38500,103215.34
+2100,12.01,0.4,Generic,Tablet,Namibia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",181,SO-2349,25951.739999999998
+8,76.72,0.23,Norvir,Capsule,Vietnam,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",48,SCMS-44990,3981.0
+400,16.0,0.18,Generic,Capsule,Nigeria,200mg,"Efavirenz 200mg, capsule, 90 Caps",38,SO-1224,7571.37
+1014,7.0,0.12,Videx,Chewable/dispersible tablet,Zimbabwe,25mg,"Didanosine 25mg [Videx], chewable tablets, 60 Tabs",247,SCMS-186840,10690.86
+2216,1.86,0.01,Generic,Oral suspension,Rwanda,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",1412,SO-48170,8735.68
+185,32.0,1.6,Uni-Gold,Test kit,"Congo, DRC",300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",64,SCMS-167990,7520.04
+30000,4.13,0.14,Generic,Tablet,Vietnam,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2957,SCMS-105510,138693.77
+1114,60.82,0.51,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",266,SCMS-176160,74405.98999999999
+45671,6.52,0.11,Generic,Tablet - FDC,Uganda,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",4055,SO-50671,302237.95999999996
+400,16.95,0.19,Generic,Capsule,Mozambique,200mg,"Efavirenz 200mg, capsule, 90 Caps",3340,SO-502,10229.69
+1934,13.52,0.45,Generic,Tablet - FDC,Mozambique,600/300mg,"Abacavir/Lamivudine 600/300mg, tablets, 30 Tabs",195,SO-47610,26237.63
+1500,32.0,1.6,Uni-Gold,Test kit,Guyana,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",515,SCMS-765,56653.600000000006
+3796,36.0,0.3,Generic,Tablet,Guyana,200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",1028,SCMS-85581,149560.52000000002
+168,7.5,0.12,Generic,Tablet,Vietnam,300mg,"Zidovudine 300mg, tablets, 60 Tabs",9,SCMS-37200,4056.09
+234519,7.72,0.13,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",51833,SO-49935,1919921.7999999998
+33516,8.29,0.14,Generic,Tablet - FDC,Namibia,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4237,SCMS-253440,284919.91000000003
+10,25.0,8.33,OraQuick,Test kit - Ancillary,Botswana,300mg,"#109435**HIV, OraQuick Controls Kit, 3 Vials",6,SCMS-54130,652.9100000000001
+11594,11.0,0.18,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1615,SCMS-98053,137246.93
+71030,4.7,0.08,Generic,Tablet - FDC,Zimbabwe,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",6990,SO-40901,339921.95
+2200,4.0,0.07,Generic,Tablet - FDC,Côte d'Ivoire,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",105,SO-44140,10962.84
+16640,7.0,0.12,Generic,Tablet - FDC,Rwanda,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",1766,SCMS-14221,127166.37
+20700,10.95,0.36,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1795,SCMS-50280,248449.61000000002
+5148,9.6,0.32,Generic,Tablet - FDC,Rwanda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",12079,SO-49940,66443.53
+10724,18.9,0.16,Aluvia,Tablet,Tanzania,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",2209,SO-46005,205928.95
+50400,3.91,0.13,Generic,Tablet,Rwanda,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3090,SO-42720,213944.18
+1065,26.09,0.43,Generic,Capsule,Tanzania,150mg,"Atazanavir 150mg, capsules, 60 Caps",112,SCMS-71420,28967.829999999998
+5580,4.81,0.16,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1187,SO-43160,36487.12
+80,30.82,0.1,Kaletra,Oral solution,Uganda,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",136,SCMS-244420,4546.0
+61290,11.4,0.19,Generic,Tablet - FDC,Rwanda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",7965,SCMS-66060,766063.7000000001
+26798,16.73,0.56,Generic,Tablet - FDC,Nigeria,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",3203,SO-41264,474191.06
+3000,2.66,0.04,Generic,Tablet,Mozambique,200mg,"Nevirapine 200mg, tablets, 60 Tabs",210,SO-37050,9889.84
+12,60.82,0.2,Kaletra,Oral solution,Guyana,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",48,SCMS-188860,1480.1
+10000,1.8,0.01,Generic,Oral suspension,Zambia,10mg/ml,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",3637,SO-39020,27529.16
+26932,11.79,0.2,Generic,Tablet - FDC,Rwanda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",3393,SCMS-43880,348812.14
+2508,7.4,0.12,Generic,Tablet - FDC,Zimbabwe,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",4303,SO-711,31483.739999999998
+14277,9.45,0.16,Generic,Tablet - FDC,Nigeria,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",2033,SO-2553,150441.13999999998
+62168,7.0,0.12,Generic,Tablet - FDC,Zambia,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",22497,SO-43460,447727.77
+1129,29.0,1.45,Stat-Pak,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",328,SCMS-124140,37215.329999999994
+8834,2.26,0.04,Generic,Tablet,Uganda,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1600,SO-43941,28689.34
+52127,10.52,0.35,Generic,Tablet - FDC,Uganda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",6874,SO-43962,565231.47
+5000,8.23,0.27,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",607,SO-38803,46129.29
+1864,4.0,0.07,Generic,Tablet - FDC,Uganda,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",89,SO-45520,8255.51
+479,41.1,0.34,Aluvia,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",421,SO-971,25666.280000000002
+17310,10.52,0.35,Generic,Tablet - FDC,Uganda,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",2291,SO-43942,192868.61000000002
+2419,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",933,SCMS-118190,242782.83000000002
+316,30.82,0.1,Kaletra,Oral solution,Rwanda,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",415,SCMS-238800,14148.78
+112303,11.15,0.37,Generic,Tablet - FDC,Mozambique,600/300/300mg,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",15105,SO-46770,1259573.47
+40000,1.45,0.02,Generic,Capsule,Vietnam,30mg,"Stavudine 30mg, capsules, 60 Caps",2343,SCMS-105520,70847.38
+9500,4.0,0.07,Generic,Tablet - FDC,Côte d'Ivoire,60/30mg,"Abacavir/Lamivudine 60/30mg, tablets, 60 Tabs",449,SO-46351,41098.96
+1268,11.4,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",143,SO-32647,21929.33
+39312,4.45,0.15,Generic,Tablet,Haiti,600mg,"Efavirenz 600mg, tablets, 30 Tabs",7225,SO-36760,245064.07
+4636,11.36,0.19,Generic,Tablet,Zambia,300mg,"Abacavir 300mg, tablets, 60 Tabs",458,SO-48011,56849.25
+3500,80.0,0.8,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1192,SCMS-694,291327.22
+7442,2.6,0.04,Generic,Tablet - FDC,Mozambique,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 60 Tabs",12408,SO-48880,35014.42
+23845,14.93,0.25,Generic,Tablet,South Africa,300mg,"Abacavir 300mg, tablets, 60 Tabs",2283,SCMS-103480,360242.92999999993
+96764,4.53,0.15,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",8468,SCMS-83830,469698.13
+4000,100.0,1.0,Determine,Test kit,Haiti,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1623,SCMS-225411,415642.08
+3357,2.33,0.04,Generic,Tablet,Mozambique,150mg,"Lamivudine 150mg, tablets, 60 Tabs",181,SO-38680,8150.2300000000005
+31760,6.07,0.2,Generic,Tablet - FDC,Zambia,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",2875,SO-45910,207297.17
+995,70.0,1.17,Trizivir,Tablet - FDC,Côte d'Ivoire,300/150/300mg,"Abacavir/Lamivudine/Zidovudine 300/150/300mg [Trizivir], tablets, 60 Tabs",219,SO-604,71153.44
+5590,2.12,0.01,Generic,Oral suspension,South Africa,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",2068,SCMS-93500,15832.039999999999
+2016,9.25,0.15,Generic,Tablet - FDC,Vietnam,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",185,SCMS-23330,24229.81
+71984,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",6719,SCMS-93570,489209.98
+295,6.85,0.11,Norvir,Tablet,Uganda,100mg,"Ritonavir 100mg [Norvir], film coated tablets, 60 Tabs",36,SCMS-171910,2900.24
+185748,2.37,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",9374,SCMS-83770,452544.11
+647,7.27,0.12,Generic,Tablet - FDC,"Congo, DRC",150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",5897,SO-43680,45143.55
+8249,22.5,0.75,First Response,Test kit,Rwanda,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",2800,SCMS-38660,198562.09
+5905,3.62,0.12,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",599,SO-49880,23838.26
+1000,32.0,1.6,Uni-Gold,Test kit,Guyana,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",337,SCMS-526,37331.005
+2381,4.64,0.15,Generic,Tablet - FDC,Rwanda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",3703,SO-46485,19531.18
+13941,5.78,0.19,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",986,SO-33320,85849.79999999999
+20,350.0,3.5,OraQuick,Test kit,Botswana,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",48,SCMS-41840,8695.16
+154667,11.22,0.19,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",20339,SO-38490,1750828.1500000001
+9357,3.33,0.11,Generic,Tablet,Mozambique,600mg,"Efavirenz 600mg, tablets, 30 Tabs",12264,SO-44865,37099.75
+55000,2.08,0.03,Generic,Tablet,Zimbabwe,200mg,"Nevirapine 200mg, tablets, 60 Tabs",5810,SCMS-234750,160731.0
+30874,3.04,0.05,Generic,Tablet,Ethiopia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",1822,SO-1536,103749.13
+11608,7.12,0.12,Generic,Tablet - FDC,Nigeria,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",1871,SO-20960,94303.81000000001
+7400,2.9,0.05,Generic,Tablet,Côte d'Ivoire,200mg,"Nevirapine 200mg, tablets, 60 Tabs",714,SO-33660,23838.32
+50,38.36,0.11,Norvir,Capsule,Nigeria,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",154,SCMS-67010,3098.17
+28665,16.26,0.54,Generic,Tablet,Tanzania,600mg,"Efavirenz 600mg, tablets, 30 Tabs",2515,SO-632,473017.435
+1156,19.66,0.16,Generic,Tablet,"Congo, DRC",200/50mg,"Lopinavir/Ritonavir 200/50mg, tablets, 120 Tabs",2187,SO-49290,47282.6
+8149,89.0,0.89,Determine,Test kit,Nigeria,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",3886,SCMS-144200,813206.0499999999
+2034,16.5,0.55,First Response,Test kit,Rwanda,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",768,SO-824,38079.799999999996
+300,38.36,0.11,Norvir,Capsule,Côte d'Ivoire,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",546,SCMS-52650,16432.07
+120,7.0,0.12,Videx,Chewable/dispersible tablet,Haiti,25mg,"Didanosine 25mg [Videx], chewable tablets, 60 Tabs",29,SCMS-56120,1101.65
+1664,16.5,0.07,Generic,Oral solution,Côte d'Ivoire,20mg/ml,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",905,SO-2044,37951.18
+2744,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1303,SCMS-157661,241986.34999999998
+39360,7.15,0.12,Generic,Tablet - FDC,Tanzania,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",3421,SCMS-156520,297060.31
+16716,4.6,0.15,Generic,Tablet - FDC,Uganda,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",1874,SCMS-198530,84476.53
+9270,19.33,0.32,Generic,Tablet,Rwanda,300mg,"Abacavir 300mg, tablets, 60 Tabs",1010,SCMS-48910,196387.83
+755,21.42,0.36,Generic,Tablet,Nigeria,300mg,"Abacavir 300mg, tablets, 60 Tabs",75,SO-32974,27841.440000000002
+1176,8.61,0.14,Generic,Tablet - FDC,Vietnam,150/300mg,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",105,SCMS-31731,11010.810000000001
+2000,7.58,0.25,Generic,Delayed-release capsules,Côte d'Ivoire,250mg,"Didanosine 250mg, delayed-release capsules, 30 Caps",150,SCMS-228880,16965.43
+20,350.0,3.5,OraQuick,Test kit,Botswana,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",48,SCMS-41890,8133.71
+1440,1.8,0.03,Generic,Tablet,Haiti,150mg,"Lamivudine 150mg, tablets, 60 Tabs",99,SCMS-261710,4092.1899999999996
+9475,20.0,0.8,Bioline,Test kit,Kenya,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3158,SCMS-55900,214043.43000000002
+27,32.0,1.6,Uni-Gold,Test kit,Ethiopia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",10,SCMS-133340,1377.52
+34735,10.43,0.35,Generic,Tablet - FDC,Botswana,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",4260,SCMS-275710,383747.94999999995
+3520,6.42,0.21,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",197,SO-40800,25932.030000000002
+1116,70.0,0.7,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",256,SCMS-18470,85391.23999999999
+70000,3.89,0.06,Generic,Chewable/dispersible tablet - FDC,Nigeria,30/50/60mg,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",3376,SO-47282,302254.82999999996
+45000,26.25,0.88,Truvada,Tablet - FDC,Nigeria,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",3951,SO-15540,1194724.54
+6385,2.44,0.04,Generic,Tablet,Rwanda,150mg,"Lamivudine 150mg, tablets, 60 Tabs",327,SO-27280,17372.440000000002
+100,12.5,0.05,Generic,Oral solution,Zimbabwe,20mg/ml,"Abacavir 20mg/ml, oral solution w/syringe, Bottle, 240 ml",37,SO-42240,1840.46
+35955,4.65,0.16,Generic,Tablet - FDC,Zimbabwe,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",3520,SCMS-240580,190376.97
+20000,8.1,0.13,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4168,SCMS-236110,168884.33000000002
+250,24.5,24.5,Colloidal Gold,Test kit,Haiti,300mg,"HIV 1/2, SKB Colloidal Gold, Diagnostic Kit, Antibody, 50 Tests",164,SCMS-169340,8337.42
+40000,2.73,0.05,Generic,Tablet,Tanzania,200mg,"Nevirapine 200mg, tablets, 60 Tabs",6240,SO-36042,137358.06
+340,29.0,1.45,Stat-Pak,Test kit,Ethiopia,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",151,SCMS-133540,10701.699999999999
+17706,26.25,0.88,Truvada,Tablet - FDC,Zambia,300/200mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg [Truvada], tablets, 30 Tabs",1594,SO-1187,471561.55000000005
+2744,80.0,0.8,Determine,Test kit,Tanzania,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1303,SCMS-157661,242051.71
+26807,1.95,0.01,Generic,Oral suspension,Mozambique,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",9937,SO-40380,67059.9
+10000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3122,SCMS-10330,223011.75
+3334,3.31,0.06,Generic,Tablet,Zambia,150mg,"Lamivudine 150mg, tablets, 60 Tabs",179,SO-374,12296.235
+160,38.36,0.11,Norvir,Capsule,Tanzania,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",325,SCMS-47740,8427.74
+8178,89.0,0.89,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1407,SCMS-80820,744611.82
+1150,72.0,0.72,Determine,Test kit,Côte d'Ivoire,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",476,SO-845,85104.48
+3991,16.5,0.55,First Response,Test kit,Rwanda,300mg,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",1150,SCMS-13010,75855.66
+11480,36.16,0.3,Aluvia,Tablet,Côte d'Ivoire,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",4794,SCMS-51810,444168.74
+9000,72.0,0.72,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",2655,SCMS-40370,674322.7699999999
+100,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",11,SCMS-93540,9475.15
+1764,3.55,0.12,Generic,Tablet,Côte d'Ivoire,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",110,SO-49054,6976.339999999999
+120000,8.0,0.27,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",9022,SO-29050,966387.78
+15299,2.66,0.04,Generic,Tablet,Nigeria,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1792,SO-36004,50519.17999999999
+1600,2.0,0.07,Generic,Tablet - FDC,Zimbabwe,150/30mg,"Lamivudine/Stavudine 150/30mg, tablets, 30 Tabs",96,SO-1608,5350.29
+43479,11.89,0.4,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",4874,SO-47652,529931.93
+1,80.0,0.8,Determine,Test kit,Kenya,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",1028,SCMS-58380,10163.86
+69202,11.22,0.19,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",9299,SO-38180,832129.71
+240,7.0,0.12,Videx,Chewable/dispersible tablet,Vietnam,25mg,"Didanosine 25mg [Videx], chewable tablets, 60 Tabs",52,SCMS-27330,3199.34
+7876,1.52,0.03,Generic,Capsule,Nigeria,30mg,"Stavudine 30mg, capsules, 60 Caps",5588,SO-2554,30612.91
+64316,4.51,0.15,Generic,Tablet,South Africa,600mg,"Efavirenz 600mg, tablets, 30 Tabs",5467,SCMS-103390,299867.06999999995
+342,16.96,0.09,Stocrin/Sustiva,Oral solution,Haiti,30mg/ml,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",109,SCMS-74050,6102.83
+33936,4.62,0.15,Generic,Tablet - FDC,Haiti,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",14925,SCMS-240160,179045.95
+165,1.45,0.01,Generic,Oral solution,Mozambique,1mg/ml,"Stavudine 1mg/ml, powder for oral solution, 200 ml",15,SO-382,590.41
+28,50.0,0.28,Crixivan,Capsule,Haiti,400mg,"Indinavir 400mg [Crixivan], capsules, 180 Caps",7,SCMS-90451,1693.02
+3508,20.0,0.8,Bioline,Test kit,Zimbabwe,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",1052,SO-1439,74914.11
+135000,7.2,0.12,Generic,Tablet - FDC,Mozambique,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",10053,SO-17531,984116.64
+2500,11.75,0.39,Generic,Tablet - FDC,Nigeria,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",225,SO-36914,35585.51
+469,32.0,1.6,Uni-Gold,Test kit,"Congo, DRC",300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",170,SCMS-186720,18152.21
+7296,13.28,0.22,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",824,SO-2675,100228.43000000001
+19200,2.51,0.04,Generic,Tablet,Zambia,200mg,"Nevirapine 200mg, tablets, 60 Tabs",1936,SO-38743,57693.28
+105014,13.69,0.46,Generic,Tablet - FDC,Nigeria,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",13392,SO-43048,1476899.73
+12000,8.58,0.14,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1749,SO-44934,123312.43
+34138,8.26,0.14,Generic,Tablet - FDC,Uganda,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",4009,SO-46872,287217.14
+14758,18.9,0.16,Aluvia,Tablet,Tanzania,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",3030,SO-46721,282265.85000000003
+5084,70.0,0.7,Determine,Test kit,Rwanda,300mg,"HIV 1/2, Determine HIV Kit, without Lancets, 100 Tests",1153,SCMS-51680,403215.93000000005
+225,21.42,0.36,Generic,Tablet,Haiti,300mg,"Abacavir 300mg, tablets, 60 Tabs",306,SO-34670,8859.91
+79250,6.65,0.22,Generic,Tablet,South Africa,300mg,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",7397,SCMS-93540,536691.1499999999
+8964,27.0,1.35,Stat-Pak,Test kit,Ethiopia,300mg,"HIV 1/2, Stat-Pak HIV, Kit, 20 Tests",3231,SCMS-32410,258121.57
+68235,19.92,0.66,Generic,Tablet - FDC,Tanzania,600/200/300mg,"Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate 600/200/300mg, tablets, 30 Tabs",83,SO-40710,1363578.29
+160,32.0,1.6,Uni-Gold,Test kit,Sudan,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",53,SCMS-69260,6441.96
+158124,2.43,0.04,Generic,Tablet,South Africa,150mg,"Lamivudine 150mg, tablets, 60 Tabs",7467,SCMS-103880,405133.6
+500,5.94,0.1,Generic,Tablet,Rwanda,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",65,SCMS-215450,3958.3100000000004
+14,206.51,0.61,Norvir,Capsule,Vietnam,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",52,SCMS-98180,10235.75
+350505,7.72,0.13,Generic,Tablet - FDC,Nigeria,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",72975,SO-49685,2838523.5000000005
+27911,5.54,0.18,Generic,Tablet - FDC,Nigeria,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",11969,SO-42336,171933.73
+10350,2.33,0.04,Generic,Tablet,Côte d'Ivoire,150mg,"Lamivudine 150mg, tablets, 60 Tabs",495,SO-41171,44698.11
+273,38.36,0.11,Norvir,Capsule,Nigeria,100mg,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",520,SCMS-86060,14254.08
+3896,35.8,0.6,Generic,Tablet,Tanzania,300mg,"Abacavir 300mg, tablets, 60 Tabs",3369,SO-455,149388.96
+1080,1.75,0.03,Generic,Capsule,Côte d'Ivoire,20mg,"Stavudine 20mg, capsules, 60 Caps",4668,SO-2045,10680.300000000001
+98400,3.35,0.06,Generic,Tablet,Vietnam,150mg,"Lamivudine 150mg, tablets, 60 Tabs",4300,SCMS-167,357653.795
+30,350.0,3.5,OraQuick,Test kit,Cameroon,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",77,SCMS-259410,12311.27
+850,0.01,0.0,Generic,Test kit - Ancillary,Uganda,300mg,"HIV, Lancet, Safety, for HIV Test kits, 100 Pcs",56,SCMS-18750,368.51
+6390,5.94,0.1,Generic,Tablet,Uganda,100/25mg,"Lopinavir/Ritonavir 100/25mg [Aluvia], tablets, 60 Tabs",733,SCMS-171900,44259.42
+33650,5.58,0.09,Generic,Tablet,Mozambique,300mg,"Zidovudine 300mg, tablets, 60 Tabs",6904,SO-45894,193815.72999999998
+100000,7.35,0.24,Generic,Tablet - FDC,Zambia,200/300mg,"Emtricitabine/Tenofovir Disoproxil Fumarate 200/300mg, tablets, 30 Tabs",9389,SCMS-134350,787325.34
+7000,32.0,1.6,Uni-Gold,Test kit,Zambia,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",2304,SCMS-87280,258008.9
+56054,5.85,0.1,Generic,Tablet - FDC,Zambia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",15140,SO-36844,344872.44
+4400,60.82,0.51,Aluvia,Tablet,Vietnam,200/50mg,"Lopinavir/Ritonavir 200/50mg [Aluvia], tablets, 120 Tabs",1073,SCMS-249030,269359.04
+107556,7.12,0.12,Generic,Tablet - FDC,Ethiopia,150/200/30mg,"Lamivudine/Nevirapine/Stavudine 150/200/30mg, tablets, 60 Tabs",14450,SO-22030,781444.37
+1960,2.18,0.04,Generic,Tablet,Mozambique,200mg,"Nevirapine 200mg, tablets, 60 Tabs",9674,SO-50121,12198.83
+36831,4.62,0.15,Generic,Tablet - FDC,Haiti,300/300mg,"Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs",17826,SCMS-262980,190860.37000000002
+5,350.0,3.5,OraQuick,Test kit,Botswana,300mg,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit, 100 Tests",12,SCMS-46071,2437.85
+168,2.0,0.07,Generic,Capsule,Uganda,50mg,"Efavirenz 50mg, capsule, 30 Caps",8,SCMS-177120,1357.76
+268,35.8,0.6,Generic,Tablet,Côte d'Ivoire,300mg,"Abacavir 300mg, tablets, 60 Tabs",151,SO-560,11200.935
+489,11.36,0.19,Generic,Tablet,"Congo, DRC",300mg,"Abacavir 300mg, tablets, 60 Tabs",2045,SO-47630,21644.07
+44135,12.42,0.41,Generic,Tablet,Zambia,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3454,SO-1032,561525.75
+10000,20.0,0.8,Bioline,Test kit,Tanzania,300mg,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included, 25 Tests",3334,SCMS-114990,222282.35
+3024,1.45,0.02,Generic,Capsule,Vietnam,30mg,"Stavudine 30mg, capsules, 60 Caps",202,SCMS-51760,6009.27
+137,32.0,1.6,Uni-Gold,Test kit,"Congo, DRC",300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",62,SCMS-131060,5757.74
+2623,10.4,0.1,Retrovir,Capsule,Zambia,100mg,"Zidovudine 100mg [Retrovir], capsules, 100 Caps",159,SO-207,28330.190000000002
+1133,80.0,0.8,Determine,Test kit,Mozambique,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",539,SCMS-130160,101715.01999999999
+1472,80.0,0.8,Determine,Test kit,Burundi,300mg,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",638,SCMS-167290,134095.61
+4680,10.99,0.18,Generic,Tablet,Haiti,300mg,"Abacavir 300mg, tablets, 60 Tabs",487,SCMS-262850,54949.6
+24977,1.95,0.01,Generic,Oral suspension,Tanzania,10mg/ml,"Nevirapine 10mg/ml, oral suspension w/syringe, Bottle, 240 ml",9174,SO-43140,55959.03
+1270,32.0,1.6,Uni-Gold,Test kit,Swaziland,300mg,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",429,SCMS-109440,45433.21
+47716,3.19,0.11,Generic,Tablet,Ghana,600mg,"Efavirenz 600mg, tablets, 30 Tabs",3077,SCMS-235800,175105.44
+300,60.82,0.2,Kaletra,Oral solution,Vietnam,80/20mg/ml,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",275,SCMS-145510,19287.56
+10762,8.1,0.13,Generic,Tablet - FDC,Vietnam,150/300/200mg,"Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs",1485,SCMS-199740,89982.66

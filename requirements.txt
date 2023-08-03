@@ -1,0 +1,11 @@
+ipykernel
+dill
+numpy
+pandas
+seaborn
+catboost
+category_encoders
+scikit-learn
+xgboost
+Flask
+-e .
